@@ -1,0 +1,9 @@
+[submodule "IT1214_Practicals"]
+	path = IT1214_Practicals
+	url = https://github.com/Naveen-nm27/IT1214_Practicals.git
+[submodule "OOP_With_JAVA_IT1214"]
+	path = OOP_With_JAVA_IT1214
+	url = https://github.com/Naveen-nm27/IT1214-Practical-Worksheet-01.git
+[submodule "DATABASE_IT1223"]
+	path = DATABASE_IT1223
+	url = https://github.com/Naveen-nm27/ITSQL_1223-P.git
