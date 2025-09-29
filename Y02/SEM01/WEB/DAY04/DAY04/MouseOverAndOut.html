@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id = "hover" style="font-size: larger;">Batman</p>
+    <script>
+        let hover = document.getElementById("hover");
+
+        hover.addEventListener("mouseover",function(){
+            hover.style.color = 'red';
+        })
+
+        hover.addEventListener("mouseout",function(){
+            hover.style.color = "cyan";
+        })
+    </script>
+</body>
+</html>

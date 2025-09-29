@@ -1,0 +1,4 @@
+1	fluffy	fluffy@Gmail.com	987654210	1993-02-04	NULL	
+2	Claws	claus@gmail.com	8765432109	1993-02-01	NULL	
+
+		

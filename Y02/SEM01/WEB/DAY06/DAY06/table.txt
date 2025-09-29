@@ -1,0 +1,22 @@
+$(document).ready(function() {
+    // Attach a click event listener to all elements with the class 'std-name'
+    $('.std-name').on('click', function() {
+        const row = $(this).closest('tr'); // Get the parent row
+        let sum = 0;
+        let count = 0;
+
+        // Find all '.marks' cells within that row and iterate over them
+        row.find('.marks').each(function() {
+            const mark = parseFloat($(this).text());
+            if (!isNaN(mark)) {
+                sum += mark;
+                count++;
+            }
+        });
+
+        const average = (count > 0) ? (sum / count).toFixed(2) : 0;
+        const studentName = $(this).text();
+
+        alert(`${studentName}'s average mark is: ${average}`);
+    });
+});

@@ -1,0 +1,17 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.deps.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.runtimeconfig.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\bin\Debug\net6.0-windows\MultiplicationTable.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.AssemblyInfo.cs
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\refint\MultiplicationTable.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\MultiplicationTable.genruntimeconfig.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultiplicationTable\MultiplicationTable\obj\Debug\net6.0-windows\ref\MultiplicationTable.dll

@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.pdb

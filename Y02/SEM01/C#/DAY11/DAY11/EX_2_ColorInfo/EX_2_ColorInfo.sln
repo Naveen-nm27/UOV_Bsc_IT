@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX_2_ColorInfo", "EX_2_ColorInfo\EX_2_ColorInfo.csproj", "{3C5D42DE-596D-4758-A928-2B7C8A1824E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C5D42DE-596D-4758-A928-2B7C8A1824E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5D42DE-596D-4758-A928-2B7C8A1824E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5D42DE-596D-4758-A928-2B7C8A1824E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5D42DE-596D-4758-A928-2B7C8A1824E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {375C1ECA-1300-4A25-A61B-A451713D68DD}
+	EndGlobalSection
+EndGlobal

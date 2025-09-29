@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id ="txt_box">
+    <p id="output"></p>
+    <p id="output_2"></p>
+    <script>
+        let txt = document.getElementById("txt_box");
+
+        txt.addEventListener("keydown",function(event){
+            document.getElementById("output").innerHTML = "Key pressed: " + event.key;
+        })
+
+        txt.addEventListener("keyup",function(event){
+            document.getElementById("output_2").innerHTML = "Key Released " + event.key;
+        })
+    </script>
+</body>
+</html>

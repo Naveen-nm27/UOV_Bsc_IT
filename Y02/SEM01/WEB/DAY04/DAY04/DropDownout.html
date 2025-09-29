@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <select id="selection">
+            <option>Python</option>
+            <option>C#</option>
+            <option>rust</option>
+        </select>
+    </form>
+    <p id="out"></p>
+    <script>
+        document.getElementById("selection").addEventListener("change",function(){
+            const selectedValue = event.target.value;
+            document.getElementById("out").innerHTML = "Selected " + selectedValue;
+        })
+    </script>
+</body>
+</html>

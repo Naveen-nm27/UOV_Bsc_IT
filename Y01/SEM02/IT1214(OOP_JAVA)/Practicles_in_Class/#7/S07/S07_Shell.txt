@@ -1,0 +1,520 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Main.Java
+error: Class names, 'Main.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Main.Java
+error: Class names, 'Main.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Main.Java
+error: Class names, 'Main.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.Java
+error: Class names, 'Rectangle.Java', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java main
+Error: Could not find or load main class main
+Caused by: java.lang.NoClassDefFoundError: Main (wrong name: main)
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+Value of i is 0
+Value of i is 1
+Value of i is 2
+Value of i is 3
+Value of i is 4
+Value of i is 5
+Value of i is 6
+Value of i is 7
+Value of i is 8
+Value of i is 9
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:11: error: incompatible types: unexpected return value
+                return 0;
+                       ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:10: error: incompatible types: unexpected return value
+                                        return 0;
+                                               ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:11: error: incompatible types: unexpected return value
+                return 0;
+                       ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:9: error: incompatible types: unexpected return value
+                return 0;
+                       ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:16: error: class, interface, or enum expected
+return 0;
+^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+Error: Main method must return a value of type void in class Main, please
+define the main method as:
+   public static void main(String[] args)
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:11: error: incompatible types: unexpected return value
+                return 0;
+                       ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java main
+Error: Could not find or load main class main
+Caused by: java.lang.NoClassDefFoundError: Main (wrong name: main)
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+Value of i is 0
+Value of i is 1
+Value of i is 2
+Value of i is 3
+Value of i is 4
+Value of i is 5
+Value of i is 6
+Value of i is 7
+Value of i is 8
+Value of i is 9
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:3: error: invalid method declaration; return type required
+        print(int width, int height){
+        ^
+Rectangle.java:20: error: ';' expected
+                                        System.out.print("* ")
+                                                              ^
+Rectangle.java:22: error: ';' expected
+                                System.out.println()
+                                                    ^
+3 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.java
+Rectangle.java:3: error: invalid method declaration; return type required
+        print(int width, int height){
+        ^
+Rectangle.java:20: error: ';' expected
+                                        System.out.print("* ")
+                                                              ^
+Rectangle.java:22: error: ';' expected
+                                System.out.println()
+                                                    ^
+3 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.java
+Rectangle.java:3: error: invalid method declaration; return type required
+        print(int width, int height){
+        ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.java
+Rectangle.java:3: error: invalid method declaration; return type required
+        print(int width, int height){
+        ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.java
+Rectangle.java:3: error: invalid method declaration; return type required
+        print(int width, int height){
+        ^
+1 error
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.java
+Rectangle.java:4: error: cannot find symbol
+                width = j;
+                        ^
+  symbol:   variable j
+  location: class Rectangle
+Rectangle.java:5: error: cannot find symbol
+                height = i;
+                         ^
+  symbol:   variable i
+  location: class Rectangle
+2 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+* * *
+* * *
+* * *
+* * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+* * *
+* * *
+* * *
+* * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+just created a Rectangle object with (h*w) 7*9
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+just created a Rectangle object with (h*w) 9*11
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+just created a Rectangle object with (h*w) 11*13
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+just created a Rectangle object with (h*w) 7*9
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+just created a Rectangle object with (h*w) 9*11
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+just created a Rectangle object with (h*w) 11*13
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+ * * *
+ * * *
+ * * *
+ * * *
+ * * *
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+just created a Rectangle object with (h*w) 7*9
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+* * * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+ * * * * * * *
+just created a Rectangle object with (h*w) 9*11
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+* * * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+ * * * * * * * * *
+just created a Rectangle object with (h*w) 11*13
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+* * * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+ * * * * * * * * * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+ * * *
+ * * *
+ * * *
+ * * *
+ * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:49: error: cannot find symbol
+                        System.out.println("Height " + r1.height, "Width " + r2.width);
+                                                       ^
+  symbol:   variable r1
+  location: class Main
+Rectangle.java:49: error: cannot find symbol
+                        System.out.println("Height " + r1.height, "Width " + r2.width);
+                                                                             ^
+  symbol:   variable r2
+  location: class Main
+2 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:49: error: cannot find symbol
+                        System.out.println("Height " + r1.height, "Width " + r1.width);
+                                                       ^
+  symbol:   variable r1
+  location: class Main
+Rectangle.java:49: error: cannot find symbol
+                        System.out.println("Height " + r1.height, "Width " + r1.width);
+                                                                             ^
+  symbol:   variable r1
+  location: class Main
+2 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:49: error: cannot find symbol
+                        System.out.println("Height " + r1.height + " , Width " + r1.width);
+                                                       ^
+  symbol:   variable r1
+  location: class Main
+Rectangle.java:49: error: cannot find symbol
+                        System.out.println("Height " + r1.height + " , Width " + r1.width);
+                                                                                 ^
+  symbol:   variable r1
+  location: class Main
+2 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+Height 5 , Width 7
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+Rectangle.java:8: error: cannot find symbol
+                height=h;
+                       ^
+  symbol:   variable h
+  location: class Rectangle
+Rectangle.java:9: error: cannot find symbol
+                width=w;
+                      ^
+  symbol:   variable w
+  location: class Rectangle
+2 errors
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+Height 0 , Width 0
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Javac Rectangle.java
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>Java Main
+just created a Rectangle object with (h*w) 3*5
+* * * * *
+* * * * *
+* * * * *
+just created a Rectangle object with (h*w) 5*7
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+* * * * * * *
+Height 5 , Width 7
+
+C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\OOP\DAY07\S07>

@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\bin\Debug\DoubleClick.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\bin\Debug\DoubleClick.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\bin\Debug\DoubleClick.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.pdb

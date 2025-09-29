@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int l, w;  // 'l' for length and 'w' for width
+
+    cout << "Enter length: ";
+    cin >> l;
+
+    cout << "Enter width: ";
+    cin >> w;
+
+    cout << "Area is: " << (l * w) << endl;       // Area = length * width
+    cout << "Perimeter is: " << 2 * (l + w) << endl; // Perimeter = 2 * (length + width)
+
+    return 0;
+}

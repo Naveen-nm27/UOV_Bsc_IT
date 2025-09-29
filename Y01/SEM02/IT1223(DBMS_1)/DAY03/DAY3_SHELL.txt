@@ -1,0 +1,654 @@
+
+2022ict138@CL1-43 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 8
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> SELECT VERSION();
++-----------------+
+| VERSION()       |
++-----------------+
+| 10.4.32-MariaDB |
++-----------------+
+1 row in set (0.001 sec)
+
+
+MariaDB [(none)]> SELECT CURRENT_DATE();
++----------------+
+| CURRENT_DATE() |
++----------------+
+| 2025-03-26     |
++----------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT VERSION(),CURRENT_DATE();
++-----------------+----------------+
+| VERSION()       | CURRENT_DATE() |
++-----------------+----------------+
+| 10.4.32-MariaDB | 2025-03-26     |
++-----------------+----------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT VERSION();
++-----------------+
+| VERSION()       |
++-----------------+
+| 10.4.32-MariaDB |
++-----------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT CURRENT_DATE();
++----------------+
+| CURRENT_DATE() |
++----------------+
+| 2025-03-26     |
++----------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT 45*(75/5)
+    -> ;
++-----------+
+| 45*(75/5) |
++-----------+
+|  675.0000 |
++-----------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT "HELLO WORLD";
++-------------+
+| HELLO WORLD |
++-------------+
+| HELLO WORLD |
++-------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT "HELLO WORLD",5*5,CURRENT_DATE;
++-------------+-----+--------------+
+| HELLO WORLD | 5*5 | CURRENT_DATE |
++-------------+-----+--------------+
+| HELLO WORLD |  25 | 2025-03-26   |
++-------------+-----+--------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT "HELLO WORLD";SLECET 5*5,SLELECT CURRENT_DATE;
++-------------+
+| HELLO WORLD |
++-------------+
+| HELLO WORLD |
++-------------+
+1 row in set (0.000 sec)
+
+MariaDB [(none)]> SELECT "HELLO WORLD";SLECET 5*5;SLELECT CURRENT_DATE;
++-------------+
+| HELLO WORLD |
++-------------+
+| HELLO WORLD |
++-------------+
+1 row in set (0.000 sec)
+
+
+MariaDB [(none)]> SELECT "HELLO WORLD";SELECT 5*5;SELECT CURRENT_DATE;
++-------------+
+| HELLO WORLD |
++-------------+
+| HELLO WORLD |
++-------------+
+1 row in set (0.000 sec)
+
++-----+
+| 5*5 |
++-----+
+|  25 |
++-----+
+1 row in set (0.000 sec)
+
++--------------+
+| CURRENT_DATE |
++--------------+
+| 2025-03-26   |
++--------------+
+1 row in set (0.000 sec)
+
+
+MariaDB [(none)]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| company            |
+| information_schema |
+| it1223             |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+7 rows in set (0.035 sec)
+
+MariaDB [(none)]> CREATE DATABASE STUDENT;
+Query OK, 1 row affected (0.001 sec)
+
+
+2022ict138@CL1-43 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 12
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> CREATE DATABASE STUDENT;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> USE STUDENT;
+Database changed
+MariaDB [STUDENT]> CREATE TABLE fasstudents;
+ERROR 1113 (42000): A table must have at least 1 column
+MariaDB [STUDENT]> CREATE TABLE fasstudents
+    -> Bye
+
+2022ict138@CL1-43 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 13
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 9
+MariaDB [STUDENT]> CREATE TABLE fasstudents(
+    ->  fname VARCHAR(30),
+    ->  lamne VARCHAR(30),
+    ->  address VARCHAR(50),
+    ->  sex VARCHAR(10),
+    ->  dbdate DATE,
+    ->  course VARCHAR(15),
+    ->  tphone VARCHAR(15)
+    ->  );
+Query OK, 0 rows affected (0.010 sec)
+
+MariaDB [STUDENT]> DESC fasstudents;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| fname   | varchar(30) | YES  |     | NULL    |       |
+| lamne   | varchar(30) | YES  |     | NULL    |       |
+| address | varchar(50) | YES  |     | NULL    |       |
+| sex     | varchar(10) | YES  |     | NULL    |       |
+| dbdate  | date        | YES  |     | NULL    |       |
+| course  | varchar(15) | YES  |     | NULL    |       |
+| tphone  | varchar(15) | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+7 rows in set (0.014 sec)
+
+MariaDB [STUDENT]> show * from fasstudent;
+
+MariaDB [STUDENT]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| company            |
+| information_schema |
+| it1223             |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| student            |
+| test               |
++--------------------+
+8 rows in set (0.001 sec)
+
+MariaDB [STUDENT]> SHOW TABLES;
++-------------------+
+| Tables_in_student |
++-------------------+
+| fasstudents       |
++-------------------+
+1 row in set (0.001 sec)
+
+MariaDB [STUDENT]> ALTER TABLE fasstudents ADD COLUMN NICno VARCHAR(12);
+Query OK, 0 rows affected (0.008 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [STUDENT]> DESC fasstudents;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| fname   | varchar(30) | YES  |     | NULL    |       |
+| lamne   | varchar(30) | YES  |     | NULL    |       |
+| address | varchar(50) | YES  |     | NULL    |       |
+| sex     | varchar(10) | YES  |     | NULL    |       |
+| dbdate  | date        | YES  |     | NULL    |       |
+| course  | varchar(15) | YES  |     | NULL    |       |
+| tphone  | varchar(15) | YES  |     | NULL    |       |
+| NICno   | varchar(12) | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+8 rows in set (0.012 sec)
+
+MariaDB [STUDENT]> desc fasstudents;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| fname   | varchar(30) | YES  |     | NULL    |       |
+| lamne   | varchar(30) | YES  |     | NULL    |       |
+| address | varchar(50) | YES  |     | NULL    |       |
+| sex     | varchar(10) | YES  |     | NULL    |       |
+| dbdate  | date        | YES  |     | NULL    |       |
+| course  | varchar(15) | YES  |     | NULL    |       |
+| tphone  | varchar(15) | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+7 rows in set (0.013 sec)
+
+MariaDB [STUDENT]> ALTER TABLE fasstudents MODIFY COLUMN tphone VARCHAR(10);
+Query OK, 0 rows affected (0.030 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [STUDENT]> DESC fasstudents;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| fname   | varchar(30) | YES  |     | NULL    |       |
+| lamne   | varchar(30) | YES  |     | NULL    |       |
+| address | varchar(50) | YES  |     | NULL    |       |
+| sex     | varchar(10) | YES  |     | NULL    |       |
+| dbdate  | date        | YES  |     | NULL    |       |
+| course  | varchar(15) | YES  |     | NULL    |       |
+| tphone  | varchar(10) | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+7 rows in set (0.014 sec)
+
+MariaDB [STUDENT]> SELECT * FROM fasstudents;
+Empty set (0.001 sec)
+
+MariaDB [STUDENT]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| company            |
+| information_schema |
+| it1223             |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| student            |
+| test               |
++--------------------+
+8 rows in set (0.001 sec)
+
+MariaDB [STUDENT]> CREATE TABLE customer01(
+    -> Customer_ID INT KEY AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+Query OK, 0 rows affected (0.011 sec)
+MariaDB [STUDENT]> SHOW TABLES;
++-------------------+
+| Tables_in_student |
++-------------------+
+| customer01        |
+| fasstudents       |
++-------------------+
+2 rows in set (0.001 sec)
+
+MariaDB [STUDENT]> Bye
+
+2022ict138@CL1-43 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 14
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> LOAD DATA LOCAL INFILE 'C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\DATA01.TXT' INTO TABLE customer01;
+ERROR 1046 (3D000): No database selected
+MariaDB [(none)]> USE STUDENTS;
+ERROR 1049 (42000): Unknown database 'students'
+MariaDB [(none)]> USE STUDENT;
+Database changed
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\DATA01.TXT' INTO TABLE customer01;
+ERROR 2 (HY000): File 'C:Users2022ict138Desktop2022ICT138Y01SEM02DATA01.TXT' not found (Errcode: 2)
+MariaDB [STUDENT]> CREATE TABLE customer02(
+    -> Customer_ID INT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+Query OK, 0 rows affected (0.011 sec)
+
+MariaDB [STUDENT]> Bye
+
+2022ict138@CL1-43 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 15
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> USE STUDENT
+Database changed
+MariaDB [STUDENT]> USE STUDENT;
+Database changed
+MariaDB [STUDENT]> SHOW TABLES;
++-------------------+
+| Tables_in_student |
++-------------------+
+| customer01        |
+| customer02        |
+| fasstudents       |
++-------------------+
+3 rows in set (0.001 sec)
+
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\DATA01.TXT' INTO TABLE customer02;
+ERROR 2 (HY000): File 'C:Users2022ict138Desktop2022ICT138Y01SEM02DATA01.TXT' not found (Errcode: 2)
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DATA01.TXT' INTO TABLE customer02;
+ERROR 2 (HY000): File 'C:Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DATA01.TXT' not found (Errcode: 2)
+MariaDB [STUDENT]> INSERT INTO customer01 (Customer_Id,Name,Email,Phone,Registered_Date,cancel_Date)
+    ->  VALUES(101,'Alice Ocean','alice@yahoo.com','+94-562-8564-452','2024-03-19','2026-03-09'),
+    ->  (102,'Jane Doe','Jane@yahoo.com','+94-785-852-452','2024-02-19','2025-02-09'),
+    ->  (103,'Jason Statheam','jason@yahoo.com','+94-855-4556','2024-01-19','2025-01-09');
+Query OK, 3 rows affected, 1 warning (0.005 sec)
+Records: 3  Duplicates: 0  Warnings: 1
+
+MariaDB [STUDENT]> SHOW * FROM coustomer01;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM coustomer01' at line 1
+MariaDB [STUDENT]> SHOW * FROM customer01;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM customer01' at line 1
+MariaDB [STUDENT]> SELECT * FROM customer01;
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name           | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean    | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 2026-03-09  |
+|         102 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
+|         103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19      | 2025-01-09  |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+3 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> UPDATE customer01 SET Email = 'alice@yahoo.com' WHERE Name='Jane Doe';
+Query OK, 1 row affected (0.004 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [STUDENT]> SELECT * FROM customer01;
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name           | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean    | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 2026-03-09  |
+|         102 | Jane Doe       | alice@yahoo.com | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
+|         103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19      | 2025-01-09  |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+3 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> UPDATE customer01 SET cancel_Date='2000-05-07' WHERE Registered_Date>'2023-01-01';
+Query OK, 3 rows affected (0.004 sec)
+Rows matched: 3  Changed: 3  Warnings: 0
+
+MariaDB [STUDENT]> SELECT * FROM customer01;
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name           | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean    | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 2000-05-07  |
+|         102 | Jane Doe       | alice@yahoo.com | +94-785-852-452 | 2024-02-19      | 2000-05-07  |
+|         103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19      | 2000-05-07  |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+3 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\SQL_ASSINGMNET_02_DAY02_ST_TABLE.txt' TO TABLE customer02;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TO TABLE customer02' at line 1
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\SQL_ASSINGMNET_02_DAY02_ST_TABLE.txt' INTO TABLE customer02;
+ERROR 2 (HY000): File 'C:Users2022ict138Desktop2022ICT138Y01SEM02SQL_ASSINGMNET_02_DAY02_ST_TABLE.txt' not found (Errcode: 2)
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:\Users\2022ict138\Desktop\2022ICT138\Y01\SEM02\DBMS\DAY02\DATA01.TXT' INTO TABLE customer02;
+ERROR 2 (HY000): File 'C:Users2022ict138Desktop2022ICT138Y01SEM02DBMSDAY02DATA01.TXT' not found (Errcode: 2)
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY02\DATA01.TXT' INTO TABLE customer02;
+ERROR 2 (HY000): File 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY02DATA01.TXT' not found (Errcode: 2)
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY02\DATA01.TXT' INTO TABLE customer02;
+ERROR 2 (HY000): File 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY02DATA01.TXT' not found (Errcode: 2)
+MariaDB [STUDENT]> CREATE TABEL Pet;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABEL Pet' at line 1
+MariaDB [STUDENT]> CREATE TABELE Pet;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABELE Pet' at line 1
+MariaDB [STUDENT]> CREATE TABLE Pet;
+ERROR 1113 (42000): A table must have at least 1 column
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY02/DATA01.TXT' INTO TABLE customer02;
+Query OK, 7 rows affected, 13 warnings (0.013 sec)
+Records: 7  Deleted: 0  Skipped: 0  Warnings: 13
+
+MariaDB [STUDENT]> SELECT * FROM customer02;
++-------------+----------+--------------------+------------+-----------------+-------------+
+| Customer_ID | Name     | Email              | Phone      | Registered_Date | cancel_Date |
++-------------+----------+--------------------+------------+-----------------+-------------+
+|           1 | fluffy   | fluffy@Gmail.com   | 987654210  | 1993-02-04      | 0000-00-00  |
+|           2 | Claws    | claus@gmail.com    | 8765432109 | 1993-02-01      | 0000-00-00  |
+|           3 | biuffy   | buffy@gmail.com    | 7562348514 | 1989-05-13      | 0000-00-00  |
+|           4 | Fang     | fang@mail.com      | 6573412562 | 1990-08-27      | 0000-00-00  |
+|           5 | Bowser   | bowser@email.com   | 5472365455 | 1979-08-31      | 0000-00-00  |
+|           6 | Chirpy   |                    | 4321098765 | 1998-09-11      | 0000-00-00  |
+|           7 | Whistler | whistler@email.com | 3214985524 | 1997-12-09      | 0000-00-00  |
++-------------+----------+--------------------+------------+-----------------+-------------+
+7 rows in set (0.001 sec)
+
+MariaDB [STUDENT]> CREATE TABLE Pet(
+    ->  Name VARCHAR(30),
+    ->  Owner VARCHAR(30),
+    ->  Species VARCHAR(30),
+    ->  sex VARCHAR(1),
+    ->  date_of_birth DATE,
+    ->  death_date DATE
+    -> );
+Query OK, 0 rows affected (0.011 sec)
+
+MariaDB [STUDENT]> use pet;
+ERROR 1049 (42000): Unknown database 'pet'
+MariaDB [student]> bye;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'bye' at line 1
+MariaDB [student]> Bye
+
+2022ict138@CL1-43 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 16
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> USE STUDENT
+Database changed
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY03/datatable#2.txt' INTO TABLE pet;
+Query OK, 8 rows affected, 8 warnings (0.015 sec)
+Records: 8  Deleted: 0  Skipped: 0  Warnings: 8
+
+MariaDB [STUDENT]> select * from pet;
++---------------+--------+---------+------+---------------+------------+
+| Name          | Owner  | Species | sex  | date_of_birth | death_date |
++---------------+--------+---------+------+---------------+------------+
+| fluffy harold | Cat    | F       | 1    | NULL          | 0000-00-00 |
+| Claws         | Gewen  | Cat     | M    | 1994-03-17    | 0000-00-00 |
+| Buffy         | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang          | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser        | Dian   | Dog     | M    | 1979-08-31    | 0000-00-00 |
+| Chirpy        | Gewen  | Bird    | F    | 1998-09-11    | 0000-00-00 |
+| whistler      | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| Slim          | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++---------------+--------+---------+------+---------------+------------+
+8 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> DELETE * FROM pet;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM pet' at line 1
+MariaDB [STUDENT]> TRUNCATE TABLE pet;
+Query OK, 0 rows affected (0.015 sec)
+
+MariaDB [STUDENT]> select * from pet;
+Empty set (0.000 sec)
+
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY03/datatable#2.txt' INTO TABLE pet;
+Query OK, 8 rows affected, 7 warnings (0.017 sec)
+Records: 8  Deleted: 0  Skipped: 0  Warnings: 7
+
+MariaDB [STUDENT]> select * from pet;
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | 0000-00-00 |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | 0000-00-00 |
+| Buffy    | Harold | Dog     | F    | 1989-05-13    | 0000-00-00 |
+| Fang     | Benny  | Dog     | M    | 1990-08-27    | 0000-00-00 |
+| Bowser   | Dian   | Dog     | M    | 1979-08-31    | 0000-00-00 |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | 0000-00-00 |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | 0000-00-00 |
+| Slim     | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++----------+--------+---------+------+---------------+------------+
+8 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> TRUNCATE TABLE pet;
+Query OK, 0 rows affected (0.013 sec)
+
+MariaDB [STUDENT]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/DBMS/DAY03/datatable#2.txt' INTO TABLE pet;
+Query OK, 8 rows affected, 7 warnings (0.027 sec)
+Records: 8  Deleted: 0  Skipped: 0  Warnings: 7
+
+MariaDB [STUDENT]> select * from pet;
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | NULL       |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Buffy    | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang     | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser   | Dian   | Dog     | M    | 1979-08-31    | NULL       |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| Slim     | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++----------+--------+---------+------+---------------+------------+
+8 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE name ='bowser';
++--------+-------+---------+------+---------------+------------+
+| Name   | Owner | Species | sex  | date_of_birth | death_date |
++--------+-------+---------+------+---------------+------------+
+| Bowser | Dian  | Dog     | M    | 1979-08-31    | NULL       |
++--------+-------+---------+------+---------------+------------+
+1 row in set (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE Species = 'Dog';
++--------+--------+---------+------+---------------+------------+
+| Name   | Owner  | Species | sex  | date_of_birth | death_date |
++--------+--------+---------+------+---------------+------------+
+| Buffy  | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang   | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser | Dian   | Dog     | M    | 1979-08-31    | NULL       |
++--------+--------+---------+------+---------------+------------+
+3 rows in set (0.001 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE date_of_birth >= 1998;
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | NULL       |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Buffy    | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang     | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser   | Dian   | Dog     | M    | 1979-08-31    | NULL       |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| Slim     | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++----------+--------+---------+------+---------------+------------+
+8 rows in set, 1 warning (0.001 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE date_of_birth <= 1998;
+Empty set, 1 warning (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE date_of_birth >= 1998-01-01;
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | NULL       |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Buffy    | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang     | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser   | Dian   | Dog     | M    | 1979-08-31    | NULL       |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| Slim     | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++----------+--------+---------+------+---------------+------------+
+8 rows in set, 1 warning (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE date_of_birth >= '1998-01-01';
++----------+-------+---------+------+---------------+------------+
+| Name     | Owner | Species | sex  | date_of_birth | death_date |
++----------+-------+---------+------+---------------+------------+
+| Chirpy   | Gewen | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen | Bird    | F    | 1998-09-11    | NULL       |
++----------+-------+---------+------+---------------+------------+
+2 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE date_of_birth >= '1998';
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | NULL       |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Buffy    | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang     | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser   | Dian   | Dog     | M    | 1979-08-31    | NULL       |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| Slim     | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++----------+--------+---------+------+---------------+------------+
+8 rows in set, 1 warning (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet WHERE date_of_birth >= '1998-09-11';
++----------+-------+---------+------+---------------+------------+
+| Name     | Owner | Species | sex  | date_of_birth | death_date |
++----------+-------+---------+------+---------------+------------+
+| Chirpy   | Gewen | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen | Bird    | F    | 1998-09-11    | NULL       |
++----------+-------+---------+------+---------------+------------+
+2 rows in set (0.000 sec)
+
+MariaDB [STUDENT]> SELECT * FROM pet
+    -> WHERE  Species = 'Dog'; AND sex = 'F';
++--------+--------+---------+------+---------------+------------+
+| Name   | Owner  | Species | sex  | date_of_birth | death_date |
++--------+--------+---------+------+---------------+------------+
+| Buffy  | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang   | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser | Dian   | Dog     | M    | 1979-08-31    | NULL       |
++--------+--------+---------+------+---------------+------------+
+3 rows in set (0.001 sec)
+
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND sex = 'F'' at line 1
+MariaDB [STUDENT]> SELECT * FROM pet
+    -> WHERE  Species = 'Dog' AND sex = 'F';
++-------+--------+---------+------+---------------+------------+
+| Name  | Owner  | Species | sex  | date_of_birth | death_date |
++-------+--------+---------+------+---------------+------------+
+| Buffy | Harold | Dog     | F    | 1989-05-13    | NULL       |
++-------+--------+---------+------+---------------+------------+
+1 row in set (0.001 sec)
+
+MariaDB [STUDENT]>

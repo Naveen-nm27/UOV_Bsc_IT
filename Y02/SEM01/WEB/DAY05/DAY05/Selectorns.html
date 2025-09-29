@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Example</title>
+    <style>
+        .stylebtn {
+            background-color: black;
+            padding: 15px;
+            color: white;
+            font-weight: bold;
+            border-radius: 7px;
+        }
+
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1 id="title">Welcome</h1>
+    <p class="note">This is a Note</p>
+    <p class="note">Another Note</p>
+    <p>Just a Paragraph</p>
+    <button id="id_btn1" class="clss_btn1">Click me</button>
+    <button id="id_hello" class="class_hello" >Hello</button>
+    <button id="id_butn3" class="class_btn3">Color</button>
+
+    <script>
+        $(function(){
+            $('.note').addClass('highlight');
+            $("p").append(" Batman");
+        });
+
+        $('#id_btn1').click(function(){
+            $('.class_hello').addClass('stylebtn');
+        });
+
+        $('#id_hello').click(function(){
+            $('.clss_btn1').addClass('stylebtn');
+        });
+
+        $('#id_butn3').click(function(){
+            $(this).css("background-color","tomato");
+        })
+
+        $('body').css("background-color","violet");
+
+    </script>
+</body>
+</html>

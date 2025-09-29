@@ -1,0 +1,17 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\bin\Debug\net6.0-windows\Q04.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\bin\Debug\net6.0-windows\Q04.deps.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\bin\Debug\net6.0-windows\Q04.runtimeconfig.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\bin\Debug\net6.0-windows\Q04.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\bin\Debug\net6.0-windows\Q04.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.AssemblyInfoInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.AssemblyInfo.cs
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\refint\Q04.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\Q04.genruntimeconfig.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY07\Q004\Q04\Q04\obj\Debug\net6.0-windows\ref\Q04.dll

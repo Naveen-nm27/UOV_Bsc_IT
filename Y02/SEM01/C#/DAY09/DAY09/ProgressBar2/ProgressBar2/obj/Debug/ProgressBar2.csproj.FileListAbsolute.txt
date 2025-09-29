@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\bin\Debug\ProgressBar2.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\bin\Debug\ProgressBar2.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\bin\Debug\ProgressBar2.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ProgressBar2\ProgressBar2\obj\Debug\ProgressBar2.pdb

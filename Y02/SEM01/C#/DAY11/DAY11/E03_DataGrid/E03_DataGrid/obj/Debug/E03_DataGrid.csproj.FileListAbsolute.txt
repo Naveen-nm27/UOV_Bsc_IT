@@ -1,0 +1,11 @@
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\bin\Debug\E03_DataGrid.exe.config
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\bin\Debug\E03_DataGrid.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\bin\Debug\E03_DataGrid.pdb
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.csproj.AssemblyReference.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.Form1.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.Properties.Resources.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.csproj.GenerateResource.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\E03_DataGrid\E03_DataGrid\obj\Debug\E03_DataGrid.pdb

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <title>JQuery1</title>
+    <style>
+        #btn{
+            background-color: black;
+            padding: 15px;
+            color: white;
+            font-weight: bold;
+            border-radius: 7px;
+            transition: transform 7s ease;
+        }
+
+        #btn:hover{
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+    <p id="demo">Hello</p>
+    <button id = "btn">Press Me</button>
+    <script>
+        $('#btn').click(function(){
+            $('#demo').text("Hello From JQuery")
+        })
+    </script>
+</body>
+</html>

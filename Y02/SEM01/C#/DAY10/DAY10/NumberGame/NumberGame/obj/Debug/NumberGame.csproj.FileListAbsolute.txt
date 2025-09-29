@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\NumberGame\NumberGame\obj\Debug\NumberGame.pdb

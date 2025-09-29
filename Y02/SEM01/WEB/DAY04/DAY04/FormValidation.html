@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #form{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 5px;
+            margin: 5px;
+        }
+
+        #form div{
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form">
+        <div>
+            <label>Name</label>
+            <input type="text" id="name">
+        </div>
+
+        <div>
+            <label>Email</label>
+            <input type="email" id="email">
+        </div>
+
+        <div>
+            <label>Age</label>
+            <input type="text" id="age">
+        </div>
+
+        <div>
+            <button>Submit</button>
+        </div>
+
+    </form>
+
+    <script>
+        document.getElementById("form").addEventListener("submit", function(){
+            const age = document.getElementById("age").value
+            const email = document.getElementById("email").value
+            const name = document.getElementById("name").value
+            let messages = [];
+
+            if(age < 18){
+                messages.push("Error Age")
+            }
+
+            if()
+        })
+    </script>
+</body>
+</html>

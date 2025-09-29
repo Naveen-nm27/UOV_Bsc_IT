@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\MouseEvent\MouseEvent\obj\Debug\MouseEvent.pdb

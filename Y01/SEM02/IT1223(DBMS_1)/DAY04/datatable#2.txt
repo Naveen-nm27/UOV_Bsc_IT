@@ -1,0 +1,8 @@
+fluffy	harold	Cat	F	1993-02-04	\N	
+Claws	Gewen	Cat	M	1994-03-17	\N	
+Buffy	Harold	Dog	F	1989-05-13	\N	
+Fang	Benny	Dog	M	1990-08-27	\N	
+Bowser	Dian	Dog	M	1979-08-31	\N	
+Chirpy	Gewen	Bird	F	1998-09-11	\N	
+whistler	Gewen	Bird	F	1998-09-11	\N	
+Slim	Benny	Sname	M	1996-04-29	\N	

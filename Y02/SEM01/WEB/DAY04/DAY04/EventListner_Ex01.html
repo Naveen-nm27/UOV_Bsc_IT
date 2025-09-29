@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AddEventListner_Ex01</title>
+</head>
+<body>
+    <button id="btn">Click Me</button>
+    <script>
+        let btn = document.getElementById("btn");
+
+        btn.onclick = function(){
+            alart("Function 1");
+        }
+
+        btn.onclick = function(){
+            alert("Function 2");
+        }
+
+        //latter function overides the first one
+    </script>
+</body>
+</html>

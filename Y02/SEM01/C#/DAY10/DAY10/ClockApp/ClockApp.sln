@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockApp", "ClockApp\ClockApp.csproj", "{984C73EC-B74E-49B9-AECB-8AC730E29947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984C73EC-B74E-49B9-AECB-8AC730E29947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984C73EC-B74E-49B9-AECB-8AC730E29947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984C73EC-B74E-49B9-AECB-8AC730E29947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984C73EC-B74E-49B9-AECB-8AC730E29947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30CC31B1-0EEB-4672-82E9-1E514B2BA883}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\bin\Debug\EmailVerify.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\bin\Debug\EmailVerify.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\bin\Debug\EmailVerify.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\EmailVerify\EmailVerify\obj\Debug\EmailVerify.pdb

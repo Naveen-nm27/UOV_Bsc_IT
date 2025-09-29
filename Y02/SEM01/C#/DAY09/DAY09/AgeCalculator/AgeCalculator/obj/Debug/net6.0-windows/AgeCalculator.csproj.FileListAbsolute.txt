@@ -1,0 +1,17 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\bin\Debug\net6.0-windows\AgeCalculator.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\bin\Debug\net6.0-windows\AgeCalculator.deps.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\bin\Debug\net6.0-windows\AgeCalculator.runtimeconfig.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\bin\Debug\net6.0-windows\AgeCalculator.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\bin\Debug\net6.0-windows\AgeCalculator.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.AssemblyInfo.cs
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\refint\AgeCalculator.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\AgeCalculator.genruntimeconfig.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\AgeCalculator\AgeCalculator\obj\Debug\net6.0-windows\ref\AgeCalculator.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_01_MarksApp", "Ex_01_MarksApp\Ex_01_MarksApp.csproj", "{DF90085C-82C0-4A93-953B-622F30B0842B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF90085C-82C0-4A93-953B-622F30B0842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF90085C-82C0-4A93-953B-622F30B0842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF90085C-82C0-4A93-953B-622F30B0842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF90085C-82C0-4A93-953B-622F30B0842B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125EDFAD-C76C-44D7-B883-13537487D5EE}
+	EndGlobalSection
+EndGlobal

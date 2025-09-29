@@ -1,0 +1,17 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\bin\Debug\net6.0-windows\ListRemove.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\bin\Debug\net6.0-windows\ListRemove.deps.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\bin\Debug\net6.0-windows\ListRemove.runtimeconfig.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\bin\Debug\net6.0-windows\ListRemove.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\bin\Debug\net6.0-windows\ListRemove.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.AssemblyInfoInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.AssemblyInfo.cs
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\refint\ListRemove.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ListRemove.genruntimeconfig.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\ListRemove\ListRemove\obj\Debug\net6.0-windows\ref\ListRemove.dll

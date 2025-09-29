@@ -1,0 +1,11 @@
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\bin\Debug\ClockApp.exe.config
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\bin\Debug\ClockApp.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\bin\Debug\ClockApp.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.csproj.AssemblyReference.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.Form1.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.Properties.Resources.resources
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.csproj.GenerateResource.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY10\ClockApp\ClockApp\obj\Debug\ClockApp.pdb

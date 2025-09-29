@@ -1,0 +1,11 @@
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.csproj.AssemblyReference.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.Form1.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.Properties.Resources.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.csproj.GenerateResource.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\bin\Debug\EX_2_ColorInfo.exe.config
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\bin\Debug\EX_2_ColorInfo.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\bin\Debug\EX_2_ColorInfo.pdb
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY11\EX_2_ColorInfo\EX_2_ColorInfo\obj\Debug\EX_2_ColorInfo.pdb

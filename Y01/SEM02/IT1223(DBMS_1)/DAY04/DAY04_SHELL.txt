@@ -1,0 +1,386 @@
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 8
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> SHOW DATABASES
+    -> ;
++--------------------+
+| Database           |
++--------------------+
+| company            |
+| information_schema |
+| it1223             |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+7 rows in set (0.022 sec)
+
+MariaDB [(none)]> USE company;
+Database changed
+MariaDB [company]> show tables;
++-------------------+
+| Tables_in_company |
++-------------------+
+| department        |
+| employee          |
++-------------------+
+2 rows in set (0.001 sec)
+
+MariaDB [(none)]> USE company;
+Database changed
+MariaDB [company]> desc department;
++----------+--------------+------+-----+---------+-------+
+| Field    | Type         | Null | Key | Default | Extra |
++----------+--------------+------+-----+---------+-------+
+| DepId    | int(11)      | NO   | PRI | NULL    |       |
+| DName    | varchar(255) | YES  |     | NULL    |       |
+| Location | varchar(255) | YES  |     | NULL    |       |
++----------+--------------+------+-----+---------+-------+
+3 rows in set (0.014 sec)
+
+MariaDB [student]> CREATE TABLE Pet(
+    ->  Name VARCHAR(30),
+    ->  Owner VARCHAR(30),
+    ->  Species VARCHAR(30),
+    ->  sex VARCHAR(1),
+    ->   date_of_birth DATE,
+    ->   death_date DATE
+    ->    );
+Query OK, 0 rows affected (0.009 sec)
+
+MariaDB [student]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/SQL/DAY04/datatable#2.txt' INTO TABLE pet;
+Query OK, 8 rows affected, 7 warnings (0.008 sec)
+Records: 8  Deleted: 0  Skipped: 0  Warnings: 7
+
+MariaDB [student]> show * from pet;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* from pet' at line 1
+MariaDB [student]> select * from pet;
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | NULL       |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Buffy    | Harold | Dog     | F    | 1989-05-13    | NULL       |
+| Fang     | Benny  | Dog     | M    | 1990-08-27    | NULL       |
+| Bowser   | Dian   | Dog     | M    | 1979-08-31    | NULL       |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| Slim     | Benny  | Sname   | M    | 1996-04-29    | NULL       |
++----------+--------+---------+------+---------------+------------+
+8 rows in set (0.028 sec)
+
+MariaDB [student]> SELECT * FROM pet WHERE Species='Cat' OR Species='Bird';
++----------+--------+---------+------+---------------+------------+
+| Name     | Owner  | Species | sex  | date_of_birth | death_date |
++----------+--------+---------+------+---------------+------------+
+| fluffy   | harold | Cat     | F    | 1993-02-04    | NULL       |
+| Claws    | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Chirpy   | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
+| whistler | Gewen  | Bird    | F    | 1998-09-11    | NULL       |
++----------+--------+---------+------+---------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [student]>    SELECT * FROM pet WHERE Species='Cat' AND Sex = 'M' OR Species='Dog' AND Sex='F';
++-------+--------+---------+------+---------------+------------+
+| Name  | Owner  | Species | sex  | date_of_birth | death_date |
++-------+--------+---------+------+---------------+------------+
+| Claws | Gewen  | Cat     | M    | 1994-03-17    | NULL       |
+| Buffy | Harold | Dog     | F    | 1989-05-13    | NULL       |
++-------+--------+---------+------+---------------+------------+
+2 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Name AND Birth FROM pet;
+ERROR 1054 (42S22): Unknown column 'Birth' in 'field list'
+MariaDB [student]> SELECT Name AND date_of_birth FROM pet;
++------------------------+
+| Name AND date_of_birth |
++------------------------+
+|                      0 |
+|                      0 |
+|                      0 |
+|                      0 |
+|                      0 |
+|                      0 |
+|                      0 |
+|                      0 |
++------------------------+
+8 rows in set, 8 warnings (0.001 sec)
+
+MariaDB [student]> SELECT Name, date_of_birth FROM pet;
++----------+---------------+
+| Name     | date_of_birth |
++----------+---------------+
+| fluffy   | 1993-02-04    |
+| Claws    | 1994-03-17    |
+| Buffy    | 1989-05-13    |
+| Fang     | 1990-08-27    |
+| Bowser   | 1979-08-31    |
+| Chirpy   | 1998-09-11    |
+| whistler | 1998-09-11    |
+| Slim     | 1996-04-29    |
++----------+---------------+
+8 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Name,Owner FROM pet;
++----------+--------+
+| Name     | Owner  |
++----------+--------+
+| fluffy   | harold |
+| Claws    | Gewen  |
+| Buffy    | Harold |
+| Fang     | Benny  |
+| Bowser   | Dian   |
+| Chirpy   | Gewen  |
+| whistler | Gewen  |
+| Slim     | Benny  |
++----------+--------+
+8 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Owner FROM pet;
++--------+
+| Owner  |
++--------+
+| harold |
+| Gewen  |
+| Harold |
+| Benny  |
+| Dian   |
+| Gewen  |
+| Gewen  |
+| Benny  |
++--------+
+8 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT DISTINCT Owner FROM pet;
++--------+
+| Owner  |
++--------+
+| harold |
+| Gewen  |
+| Benny  |
+| Dian   |
++--------+
+4 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth FROM pet WHERE Species='Dog';
++--------+---------------+
+| Name   | date_of_birth |
++--------+---------------+
+| Buffy  | 1989-05-13    |
+| Fang   | 1990-08-27    |
+| Bowser | 1979-08-31    |
++--------+---------------+
+3 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,Species FROM pet WHERE Species='Dog';
++--------+---------------+---------+
+| Name   | date_of_birth | Species |
++--------+---------------+---------+
+| Buffy  | 1989-05-13    | Dog     |
+| Fang   | 1990-08-27    | Dog     |
+| Bowser | 1979-08-31    | Dog     |
++--------+---------------+---------+
+3 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth FROM pet ORDER BY date_of_birth;
++----------+---------------+
+| Name     | date_of_birth |
++----------+---------------+
+| Bowser   | 1979-08-31    |
+| Buffy    | 1989-05-13    |
+| Fang     | 1990-08-27    |
+| fluffy   | 1993-02-04    |
+| Claws    | 1994-03-17    |
+| Slim     | 1996-04-29    |
+| Chirpy   | 1998-09-11    |
+| whistler | 1998-09-11    |
++----------+---------------+
+8 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth FROM pet ORDER BY date_of_birth DESC;
++----------+---------------+
+| Name     | date_of_birth |
++----------+---------------+
+| Chirpy   | 1998-09-11    |
+| whistler | 1998-09-11    |
+| Slim     | 1996-04-29    |
+| Claws    | 1994-03-17    |
+| fluffy   | 1993-02-04    |
+| Fang     | 1990-08-27    |
+| Buffy    | 1989-05-13    |
+| Bowser   | 1979-08-31    |
++----------+---------------+
+8 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT name,Species,date_of_birth FROM Pet ORDER BY Species,date_of_birth DESC;
++----------+---------+---------------+
+| name     | Species | date_of_birth |
++----------+---------+---------------+
+| Chirpy   | Bird    | 1998-09-11    |
+| whistler | Bird    | 1998-09-11    |
+| Claws    | Cat     | 1994-03-17    |
+| fluffy   | Cat     | 1993-02-04    |
+| Fang     | Dog     | 1990-08-27    |
+| Buffy    | Dog     | 1989-05-13    |
+| Bowser   | Dog     | 1979-08-31    |
+| Slim     | Sname   | 1996-04-29    |
++----------+---------+---------------+
+8 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT TIMESTAMPDIFF(MONTH, '2003-02-01' , '2001-05-01');
++---------------------------------------------------+
+| TIMESTAMPDIFF(MONTH, '2003-02-01' , '2001-05-01') |
++---------------------------------------------------+
+|                                               -21 |
++---------------------------------------------------+
+1 row in set (0.000 sec)
+
+MariaDB [student]> SELECT TIMESTAMPDIFF(MONTH,'2001-05-01','2003-02-01');
++------------------------------------------------+
+| TIMESTAMPDIFF(MONTH,'2001-05-01','2003-02-01') |
++------------------------------------------------+
+|                                             21 |
++------------------------------------------------+
+1 row in set (0.000 sec)
+
+MariaDB [student]> SELECT TIMESTAMPDIFF(YEAR,'2001-05-01','2003-02-01');
++-----------------------------------------------+
+| TIMESTAMPDIFF(YEAR,'2001-05-01','2003-02-01') |
++-----------------------------------------------+
+|                                             1 |
++-----------------------------------------------+
+1 row in set (0.000 sec)
+
+MariaDB [student]> SELECT TIMESTAMPDIFF(SECOND,'2001-05-01','2003-02-01');
++-------------------------------------------------+
+| TIMESTAMPDIFF(SECOND,'2001-05-01','2003-02-01') |
++-------------------------------------------------+
+|                                        55382400 |
++-------------------------------------------------+
+1 row in set (0.000 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,CURDATE(),TIMESTAMPDIFF(YEAR,date_of_birth,CURDATE()) AS Age FROM pet ORDER BY Age;
++----------+---------------+------------+------+
+| Name     | date_of_birth | CURDATE()  | Age  |
++----------+---------------+------------+------+
+| Chirpy   | 1998-09-11    | 2025-04-02 |   26 |
+| whistler | 1998-09-11    | 2025-04-02 |   26 |
+| Slim     | 1996-04-29    | 2025-04-02 |   28 |
+| Claws    | 1994-03-17    | 2025-04-02 |   31 |
+| fluffy   | 1993-02-04    | 2025-04-02 |   32 |
+| Fang     | 1990-08-27    | 2025-04-02 |   34 |
+| Buffy    | 1989-05-13    | 2025-04-02 |   35 |
+| Bowser   | 1979-08-31    | 2025-04-02 |   45 |
++----------+---------------+------------+------+
+8 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,TIMESTAMPDIFF(YEAR,date_of_birth,CURDATE()) AS Age FROM pet ORDER BY Age;
++----------+---------------+------+
+| Name     | date_of_birth | Age  |
++----------+---------------+------+
+| Chirpy   | 1998-09-11    |   26 |
+| whistler | 1998-09-11    |   26 |
+| Slim     | 1996-04-29    |   28 |
+| Claws    | 1994-03-17    |   31 |
+| fluffy   | 1993-02-04    |   32 |
+| Fang     | 1990-08-27    |   34 |
+| Buffy    | 1989-05-13    |   35 |
+| Bowser   | 1979-08-31    |   45 |
++----------+---------------+------+
+8 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,death_date,TIMESTAMPDIFF(YEAR,death_date,date_of_birth) AS Age FROM pet ORDER BY Age;
++----------+---------------+------------+------+
+| Name     | date_of_birth | death_date | Age  |
++----------+---------------+------------+------+
+| fluffy   | 1993-02-04    | NULL       | NULL |
+| Claws    | 1994-03-17    | NULL       | NULL |
+| Buffy    | 1989-05-13    | NULL       | NULL |
+| Fang     | 1990-08-27    | NULL       | NULL |
+| Bowser   | 1979-08-31    | NULL       | NULL |
+| Chirpy   | 1998-09-11    | NULL       | NULL |
+| whistler | 1998-09-11    | NULL       | NULL |
+| Slim     | 1996-04-29    | NULL       | NULL |
++----------+---------------+------------+------+
+8 rows in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,MONTH(date_of_birth) from pet;
++----------+---------------+----------------------+
+| Name     | date_of_birth | MONTH(date_of_birth) |
++----------+---------------+----------------------+
+| fluffy   | 1993-02-04    |                    2 |
+| Claws    | 1994-03-17    |                    3 |
+| Buffy    | 1989-05-13    |                    5 |
+| Fang     | 1990-08-27    |                    8 |
+| Bowser   | 1979-08-31    |                    8 |
+| Chirpy   | 1998-09-11    |                    9 |
+| whistler | 1998-09-11    |                    9 |
+| Slim     | 1996-04-29    |                    4 |
++----------+---------------+----------------------+
+8 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,MONTH(date_of_birth) AS Month from pet;
++----------+---------------+-------+
+| Name     | date_of_birth | Month |
++----------+---------------+-------+
+| fluffy   | 1993-02-04    |     2 |
+| Claws    | 1994-03-17    |     3 |
+| Buffy    | 1989-05-13    |     5 |
+| Fang     | 1990-08-27    |     8 |
+| Bowser   | 1979-08-31    |     8 |
+| Chirpy   | 1998-09-11    |     9 |
+| whistler | 1998-09-11    |     9 |
+| Slim     | 1996-04-29    |     4 |
++----------+---------------+-------+
+8 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth FROM pet WHERE MONTH(date_of_birth) = 5;
++-------+---------------+
+| Name  | date_of_birth |
++-------+---------------+
+| Buffy | 1989-05-13    |
++-------+---------------+
+1 row in set (0.001 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,'THEY CAN CLEBRATE BIRTHDAY IN THE NEXTMONTH' AS CONGRATS FROM pet WHERE MONTH(date_of_birth) >= 4;
++----------+---------------+----------------------------------------------+
+| Name     | date_of_birth | CONGRATS                                     |
++----------+---------------+----------------------------------------------+
+| Buffy    | 1989-05-13    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Fang     | 1990-08-27    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Bowser   | 1979-08-31    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Chirpy   | 1998-09-11    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| whistler | 1998-09-11    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Slim     | 1996-04-29    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
++----------+---------------+----------------------------------------------+
+6 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth,'THEY CAN CLEBRATE BIRTHDAY IN THE NEXTMONTH' AS CONGRATS FROM pet WHERE MONTH(date_of_birth) > 4;
++----------+---------------+----------------------------------------------+
+| Name     | date_of_birth | CONGRATS                                     |
++----------+---------------+----------------------------------------------+
+| Buffy    | 1989-05-13    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Fang     | 1990-08-27    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Bowser   | 1979-08-31    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| Chirpy   | 1998-09-11    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
+| whistler | 1998-09-11    | THEY CAN CLEBRATE BIRTHDAY IN THE NEXT MONTH |
++----------+---------------+----------------------------------------------+
+5 rows in set (0.000 sec)
+
+MariaDB [student]> SELECT Name,date_of_birth FROM pet WHERE MONTH(date_of_birth) = MONTH(DATE_ADD(CURDATE(),INTERVAL 1 MONTH));
++-------+---------------+
+| Name  | date_of_birth |
++-------+---------------+
+| Buffy | 1989-05-13    |
++-------+---------------+
+1 row in set (0.000 sec)
+
+MariaDB [student]>

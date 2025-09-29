@@ -1,0 +1,659 @@
+
+Setting environment for using XAMPP for Windows.
+2022ict138@CL1-95 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 8
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> SHOW DATABASES
+    -> ;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+5 rows in set (0.015 sec)
+
+MariaDB [(none)]> CREAT DATABASE OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREAT DATABASE OnlineStoreDB' at line 1
+MariaDB [(none)]> CREAT DATABASES OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREAT DATABASES OnlineStoreDB' at line 1
+MariaDB [(none)]> CREATE DATABASES OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATABASES OnlineStoreDB' at line 1
+MariaDB [(none)]> CREATE DATABASE OnlineStoreDB;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> SELECT OnlineStoreDB;
+ERROR 1054 (42S22): Unknown column 'OnlineStoreDB' in 'field list'
+MariaDB [(none)]> SELECT DATABASE OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OnlineStoreDB' at line 1
+MariaDB [(none)]> USE DATABASE OnlineStoreDB;
+ERROR 1049 (42000): Unknown database 'database'
+MariaDB [(none)]> USEOnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'USEOnlineStoreDB' at line 1
+MariaDB [(none)]> USE OnlineStoreDB;
+Database changed
+MariaDB [OnlineStoreDB]> DROP OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OnlineStoreDB' at line 1
+MariaDB [OnlineStoreDB]> DROP DATABASE OnlineStoreDB;
+Query OK, 0 rows affected (0.012 sec)
+
+MariaDB [(none)]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+5 rows in set (0.001 sec)
+
+MariaDB [(none)]> CREATE DATABASE OnlineStoreDB;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> USE OnlineStoreDB;
+Database changed
+MariaDB [OnlineStoreDB]> DROP OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OnlineStoreDB' at line 1
+MariaDB [OnlineStoreDB]> DROP DATABASE OnlineStoreDB;
+Query OK, 0 rows affected (0.001 sec)
+
+MariaDB [(none)]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+5 rows in set (0.001 sec)
+
+MariaDB [(none)]> CREATE DTABASE OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DTABASE OnlineStoreDB' at line 1
+MariaDB [(none)]> CREATE DTABASE OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DTABASE OnlineStoreDB' at line 1
+MariaDB [(none)]> CREATE DATABASE OnlineStoreDB;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> USE OnlineStoreDB;
+Database changed
+MariaDB [OnlineStoreDB]> DROP OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OnlineStoreDB' at line 1
+MariaDB [OnlineStoreDB]> DROP DATABASE OnlineStoreDB;
+Query OK, 0 rows affected (0.001 sec)
+
+MariaDB [(none)]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+5 rows in set (0.001 sec)
+
+MariaDB [(none)]> CREATE DATBASE OnlineStoreDB;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATBASE OnlineStoreDB' at line 1
+MariaDB [(none)]> CREATE DATABASE OnlineStoreDB;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| onlinestoredb      |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+6 rows in set (0.001 sec)
+
+MariaDB [(none)]> CREAT DATABASE IT1223;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CREAT DATABASE IT1223' at line 1
+MariaDB [(none)]> CREATE DATABASE IT1223;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> USE IT1223;
+Database changed
+MariaDB [IT1223]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| it1223             |
+| mysql              |
+| onlinestoredb      |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+7 rows in set (0.001 sec)
+
+MariaDB [IT1223]> CREATE TABLE Customer
+    -> Customer_ID varchar(5)
+    -> Name varchar(30)
+    -> Bye
+
+2022ict138@CL1-95 c:\xampp
+# CREATE TABLE Customer(
+'CREATE' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# Customer_ID INT,
+'Customer_ID' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# Name VARCHAR(30),
+'Name' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# Email VARCHAR(30),
+'Email' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# Phone VARCHAR(15),
+'Phone' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# Registered_Date DATE,
+'Registered_Date' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# cancel_Date DATE,
+'cancel_Date' is not recognized as an internal or external command,
+operable program or batch file.
+
+2022ict138@CL1-95 c:\xampp
+# mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 9
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> USE IT1223;
+Database changed
+MariaDB [IT1223]> CREATE TABLE Customer(
+    -> Customer_ID INT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE,
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8
+MariaDB [IT1223]> CREATE TABLE Customer(
+    -> Customer_ID INT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+Query OK, 0 rows affected (0.009 sec)
+
+MariaDB [IT1223]> SHOW TABLE;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+MariaDB [IT1223]> SHOW TABLES;
++------------------+
+| Tables_in_it1223 |
++------------------+
+| customer         |
++------------------+
+1 row in set (0.001 sec)
+
+MariaDB [IT1223]> USE TABLE customer;
+ERROR 1049 (42000): Unknown database 'table'
+MariaDB [it1223]> SELECT TABLE customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE customer' at line 1
+MariaDB [it1223]> SELECT customer;
+ERROR 1054 (42S22): Unknown column 'customer' in 'field list'
+MariaDB [it1223]> SHOW * customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* customer' at line 1
+MariaDB [it1223]> USE TABLE customer;
+ERROR 1049 (42000): Unknown database 'table'
+MariaDB [it1223]> USE customer;
+ERROR 1049 (42000): Unknown database 'customer'
+MariaDB [it1223]> customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'customer' at line 1
+MariaDB [it1223]> CREATE TABLE Customer_copy(
+    -> Customer_ID INT,
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15)
+    -> );
+Query OK, 0 rows affected (0.012 sec)
+
+MariaDB [it1223]> SHOW TABLES;
++------------------+
+| Tables_in_it1223 |
++------------------+
+| customer         |
+| customer_copy    |
++------------------+
+2 rows in set (0.000 sec)
+
+MariaDB [it1223]> CREATE TABLE CoustomerCopy1 As
+    -> SELECT Customer_ID,Email,Phone
+    -> FROM Customer;
+Query OK, 0 rows affected (0.037 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> SHOW TABLES
+    -> ;
++------------------+
+| Tables_in_it1223 |
++------------------+
+| coustomercopy1   |
+| customer         |
+| customer_copy    |
++------------------+
+3 rows in set (0.001 sec)
+
+MariaDB [it1223]> DESCRIBE TABLE customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE customer' at line 1
+MariaDB [it1223]> DESCRIBE customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+6 rows in set (0.012 sec)
+
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+6 rows in set (0.015 sec)
+
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+6 rows in set (0.012 sec)
+
+MariaDB [it1223]> DROP TABLE customer_copy;
+Query OK, 0 rows affected (0.010 sec)
+
+MariaDB [it1223]> SHOW TABLES;
++------------------+
+| Tables_in_it1223 |
++------------------+
+| coustomercopy1   |
+| customer         |
++------------------+
+2 rows in set (0.001 sec)
+
+MariaDB [it1223]> BYE;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BYE' at line 1
+MariaDB [it1223]> CREATE TABLE customer01(
+    -> Customer_ID INT AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE,
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8
+MariaDB [it1223]> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+MariaDB [it1223]> CREATE TABLE customer01(
+    -> Customer_ID KEY AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE,
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'KEY AUTO_INCREMENT,
+Name VARCHAR(30),
+Email VARCHAR(30),
+Phone VARCHAR(15),
+R...' at line 2
+MariaDB [it1223]> CREATE TABLE customer01(
+    -> Customer_ID KEY AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'KEY AUTO_INCREMENT,
+Name VARCHAR(30),
+Email VARCHAR(30),
+Phone VARCHAR(15),
+R...' at line 2
+MariaDB [it1223]> CREATE TABLE customer01(
+    -> Customer_ID KEY AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'KEY AUTO_INCREMENT,
+Name VARCHAR(30),
+Email VARCHAR(30),
+Phone VARCHAR(15),
+R...' at line 2
+MariaDB [it1223]>
+MariaDB [it1223]> CREATE TABLE customer01(
+    -> Customer_ID KEY AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'KEY AUTO_INCREMENT,
+Name VARCHAR(30),
+Email VARCHAR(30),
+Phone VARCHAR(15),
+R...' at line 2
+MariaDB [it1223]> CREATE TABLE customer01(
+    -> Customer_ID INT KEY AUTO_INCREMENT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+Query OK, 0 rows affected (0.010 sec)
+
+MariaDB [it1223]> SHOW TABLES;
++------------------+
+| Tables_in_it1223 |
++------------------+
+| coustomercopy1   |
+| customer         |
+| customer01       |
++------------------+
+3 rows in set (0.001 sec)
+
+MariaDB [it1223]> DESC customer01;
++-----------------+-------------+------+-----+---------+----------------+
+| Field           | Type        | Null | Key | Default | Extra          |
++-----------------+-------------+------+-----+---------+----------------+
+| Customer_ID     | int(11)     | NO   | PRI | NULL    | auto_increment |
+| Name            | varchar(30) | YES  |     | NULL    |                |
+| Email           | varchar(30) | YES  |     | NULL    |                |
+| Phone           | varchar(15) | YES  |     | NULL    |                |
+| Registered_Date | date        | YES  |     | NULL    |                |
+| cancel_Date     | date        | YES  |     | NULL    |                |
++-----------------+-------------+------+-----+---------+----------------+
+6 rows in set (0.013 sec)
+
+MariaDB [it1223]> USE TABLE customer01;
+ERROR 1049 (42000): Unknown database 'table'
+MariaDB [it1223]> ALTER TABLE customer ADD Nick_Name VARCHAR(10);
+Query OK, 0 rows affected (0.007 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> DESCRIBE TABEL customer;
+ERROR 1146 (42S02): Table 'it1223.tabel' doesn't exist
+MariaDB [it1223]> DESCRIBE TABLE customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE customer' at line 1
+MariaDB [it1223]> DESC TABLE customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE customer' at line 1
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
+| Nick_Name       | varchar(10) | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+7 rows in set (0.012 sec)
+
+MariaDB [it1223]> ALTER TABLE customer DELETE Nick_Name;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DELETE Nick_Name' at line 1
+MariaDB [it1223]> ALTER TABLE customer DROP COLUMN Nick_Name;
+Query OK, 0 rows affected (0.008 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+6 rows in set (0.012 sec)
+
+MariaDB [it1223]> ALTER TABLE customer ADD Nick_Name VARCHAR(20);
+Query OK, 0 rows affected (0.009 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
+| Nick_Name       | varchar(20) | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+7 rows in set (0.012 sec)
+
+MariaDB [it1223]> ALTER TABLE Customer MODIFY COLUM Nick_Name VARCHAR(30);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'VARCHAR(30)' at line 1
+MariaDB [it1223]> ALTER TABLE Customer MODIFY COLUMN Nick_Name VARCHAR(30);
+Query OK, 0 rows affected (0.007 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
+| Nick_Name       | varchar(30) | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+7 rows in set (0.014 sec)
+
+MariaDB [it1223]> ALTER TABLE Customer DROP Nick_Name;
+Query OK, 0 rows affected (0.009 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> INSERT INTO customer (Customer_Id,Name,Email,Phone,Registered_Date,cancel_Date) VALUES(101,'Alice Ocean','alice@yahoo.com','+94-562-8564-452','2024-03-19',2026-03-09);
+Query OK, 1 row affected, 2 warnings (0.004 sec)
+
+MariaDB [it1223]> SELECT * FROM customer;
++-------------+-------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name        | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+-------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 0000-00-00  |
++-------------+-------------+-----------------+-----------------+-----------------+-------------+
+1 row in set (0.001 sec)
+
+MariaDB [it1223]>       VALUES(102,'Jane Doe','Jane@yahoo.com','+94-785-852-452','2024-02-19','2025-02-09'),
+    ->  (103,'Jason Statheam','jason@yahoo.com','+94-855-4556','2024-01-19','2025-01-09');
++-----+----------------+-----------------+-----------------+------------+------------+
+| 102 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19 | 2025-02-09 |
++-----+----------------+-----------------+-----------------+------------+------------+
+| 102 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19 | 2025-02-09 |
+| 103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19 | 2025-01-09 |
++-----+----------------+-----------------+-----------------+------------+------------+
+2 rows in set (0.000 sec)
+
+MariaDB [it1223]> SELECT * FROM customer;
++-------------+-------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name        | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+-------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 0000-00-00  |
++-------------+-------------+-----------------+-----------------+-----------------+-------------+
+1 row in set (0.000 sec)
+
+MariaDB [it1223]>       INSERT INTO customer (Customer_Id,Name,Email,Phone,Registered_Date,cancel_Date)
+    ->  VALUES(102,'Jane Doe','Jane@yahoo.com','+94-785-852-452','2024-02-19','2025-02-09'),
+    ->  (103,'Jason Statheam','jason@yahoo.com','+94-855-4556','2024-01-19','2025-01-09');
+Query OK, 2 rows affected (0.010 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> SELECT * FROM customer;
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name           | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean    | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 0000-00-00  |
+|         102 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
+|         103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19      | 2025-01-09  |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+3 rows in set (0.000 sec)
+
+MariaDB [it1223]> INSERT INTO customer (Name,Email,Phone,Registered_Date,cancel_Date) VALUES ('Jane@yahoo.com','+94-785-852-452','2024-02-19','2025-02-09');
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+MariaDB [it1223]> INSERT INTO customer (Name,Email,Phone,Registered_Date,cancel_Date) VALUES ('Jane Doe','Jane@yahoo.com','+94-785-852-452','2024-02-19','2025-02-09');
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [it1223]> SELECT * FROM customer;
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name           | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean    | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 0000-00-00  |
+|         102 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
+|         103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19      | 2025-01-09  |
+|        NULL | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+4 rows in set (0.000 sec)
+
+MariaDB [it1223]> INSERT INTO customer (Customer_Id,Name,Email,Phone,Registered_Date,cancel_Date) VALUES (105,'Jane Doe','Jane@yahoo.com','+94-785-852-452','2024-02-19','2025-02-09');
+Query OK, 1 row affected (0.004 sec)
+
+MariaDB [it1223]> SELECT * FROM customer;
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+| Customer_ID | Name           | Email           | Phone           | Registered_Date | cancel_Date |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+|         101 | Alice Ocean    | alice@yahoo.com | +94-562-8564-45 | 2024-03-19      | 0000-00-00  |
+|         102 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
+|         103 | Jason Statheam | jason@yahoo.com | +94-855-4556    | 2024-01-19      | 2025-01-09  |
+|        NULL | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
+|         105 | Jane Doe       | Jane@yahoo.com  | +94-785-852-452 | 2024-02-19      | 2025-02-09  |
++-------------+----------------+-----------------+-----------------+-----------------+-------------+
+5 rows in set (0.000 sec)
+
+MariaDB [it1223]> DESC TABLE customer;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TABLE customer' at line 1
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| Email           | varchar(30) | YES  |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+6 rows in set (0.013 sec)
+
+MariaDB [it1223]> ALTER TABLE customer MODIFY COLUMN email VARCHAR(30) NOT NULL;
+Query OK, 0 rows affected (0.028 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+MariaDB [it1223]> DESC customer;
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| Customer_ID     | int(11)     | YES  |     | NULL    |       |
+| Name            | varchar(30) | YES  |     | NULL    |       |
+| email           | varchar(30) | NO   |     | NULL    |       |
+| Phone           | varchar(15) | YES  |     | NULL    |       |
+| Registered_Date | date        | YES  |     | NULL    |       |
+| cancel_Date     | date        | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+6 rows in set (0.012 sec)
+
+MariaDB [it1223]> CREATE TABLE Student(
+    -> ST_ID INT,
+    -> Name VARCHAR(30),
+    -> Email VARCHAR(30),
+    -> Phone VARCHAR(15),
+    -> Registered_Date DATE,
+    -> cancel_Date DATE
+    -> );
+Query OK, 0 rows affected (0.010 sec)
+
+MariaDB [it1223]> LOAD DATE LOCAT INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/SQL_ASSINGMNET_02_DAY02_ST_TABLE.txt' INTO TABLE Student;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE LOCAT INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/SQL_ASSIN...' at line 1
+MariaDB [it1223]> LOAD DATE LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/SQL_ASSINGMNET_02_DAY02_ST_TABLE.txt' INTO TABLE Student;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DATE LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/SQL_ASSIN...' at line 1
+MariaDB [it1223]> LOAD DATA LOCAL INFILE 'C:/Users/2022ict138/Desktop/2022ICT138/Y01/SEM02/SQL_ASSINGMNET_02_DAY02_ST_TABLE.txt' INTO TABLE Student;
+Query OK, 4 rows affected, 15 warnings (0.015 sec)
+Records: 4  Deleted: 0  Skipped: 0  Warnings: 15
+
+MariaDB [it1223]> SHOW * FROM Student;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM Student' at line 1
+MariaDB [it1223]> SLECT * FROM Student;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SLECT * FROM Student' at line 1
+MariaDB [it1223]> SELECT * FROM Student;
++-------+--------+------------------+------------+-----------------+-------------+
+| ST_ID | Name   | Email            | Phone      | Registered_Date | cancel_Date |
++-------+--------+------------------+------------+-----------------+-------------+
+|     1 | fluffy | fluffy@Gmail.com | 987654210  | 1993-02-04      | 0000-00-00  |
+|     2 | Claws  | claus@gmail.com  | 8765432109 | 1993-02-01      | 0000-00-00  |
+|     0 | NULL   | NULL             | NULL       | NULL            | NULL        |
+|     0 |        | NULL             | NULL       | NULL            | NULL        |
++-------+--------+------------------+------------+-----------------+-------------+
+4 rows in set (0.000 sec)
+
+MariaDB [it1223]> tudentStudentStudent
