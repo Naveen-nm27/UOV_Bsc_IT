@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY03\\DAY03\\ConsoleApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96FCDFFC-109D-4B49-82A0-111DCDE1DC9C}|ConsoleApp4\\ConsoleApp4.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day03\\day03\\consoleapp9\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FCDFFC-109D-4B49-82A0-111DCDE1DC9C}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY03\\DAY03\\ConsoleApp9\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY03\\DAY03\\ConsoleApp9\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:37:40.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY10\\DAY10\\StopWatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5A8952-98DC-4194-A5A1-61691C8095B0}|StopWatch\\StopWatch.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day10\\day10\\stopwatch\\stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5A8952-98DC-4194-A5A1-61691C8095B0}|StopWatch\\StopWatch.csproj|solutionrelative:stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5A8952-98DC-4194-A5A1-61691C8095B0}|StopWatch\\StopWatch.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY10\\DAY10\\StopWatch\\stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D5A8952-98DC-4194-A5A1-61691C8095B0}|StopWatch\\StopWatch.csproj|solutionrelative:stopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY10\\DAY10\\StopWatch\\StopWatch\\Form1.cs",
+              "RelativeDocumentMoniker": "StopWatch\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY10\\DAY10\\StopWatch\\StopWatch\\Form1.cs",
+              "RelativeToolTip": "StopWatch\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:51:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY10\\DAY10\\StopWatch\\StopWatch\\Form1.cs",
+              "RelativeDocumentMoniker": "StopWatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\2022ict138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY10\\StopWatch\\StopWatch\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-09-29T13:51:20.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

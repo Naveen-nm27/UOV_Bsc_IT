@@ -9,3 +9,14 @@ C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleC
 C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.CoreCompileInputs.cache
 C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.exe
 C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\bin\Debug\DoubleClick.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\bin\Debug\DoubleClick.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\bin\Debug\DoubleClick.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.Properties.Resources.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY09\DAY09\DoubleClick\DoubleClick\obj\Debug\DoubleClick.pdb

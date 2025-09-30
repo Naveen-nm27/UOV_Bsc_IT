@@ -1,0 +1,17 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.AssemblyInfoInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.AssemblyInfo.cs
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.sourcelink.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\bin\Debug\net8.0-windows\ATM.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\bin\Debug\net8.0-windows\ATM.deps.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\bin\Debug\net8.0-windows\ATM.runtimeconfig.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\bin\Debug\net8.0-windows\ATM.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\bin\Debug\net8.0-windows\ATM.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\refint\ATM.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ATM.genruntimeconfig.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\ATM\obj\Debug\net8.0-windows\ref\ATM.dll

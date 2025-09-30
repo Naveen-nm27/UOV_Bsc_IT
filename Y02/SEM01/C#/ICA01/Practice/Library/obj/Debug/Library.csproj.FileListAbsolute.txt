@@ -1,0 +1,11 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\bin\Debug\Library.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\bin\Debug\Library.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\bin\Debug\Library.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.Properties.Resources.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Library\obj\Debug\Library.exe.config

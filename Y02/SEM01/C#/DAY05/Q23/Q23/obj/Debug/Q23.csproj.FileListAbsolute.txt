@@ -6,3 +6,11 @@ C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY05\Q23\Q23
 C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY05\Q23\Q23\obj\Debug\Q23.csproj.CoreCompileInputs.cache
 C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY05\Q23\Q23\obj\Debug\Q23.exe
 C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY05\Q23\Q23\obj\Debug\Q23.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\bin\Debug\Q23.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\bin\Debug\Q23.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\bin\Debug\Q23.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\obj\Debug\Q23.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\obj\Debug\Q23.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\obj\Debug\Q23.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\obj\Debug\Q23.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY05\Q23\Q23\obj\Debug\Q23.pdb

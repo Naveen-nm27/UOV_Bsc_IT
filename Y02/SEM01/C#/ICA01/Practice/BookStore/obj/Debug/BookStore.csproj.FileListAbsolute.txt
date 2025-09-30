@@ -1,0 +1,8 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\bin\Debug\BookStore.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\bin\Debug\BookStore.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\bin\Debug\BookStore.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\obj\Debug\BookStore.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\obj\Debug\BookStore.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\BookStore\obj\Debug\BookStore.exe.config

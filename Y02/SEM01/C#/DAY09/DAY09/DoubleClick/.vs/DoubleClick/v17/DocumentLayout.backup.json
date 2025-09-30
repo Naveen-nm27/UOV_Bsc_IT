@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY09\\DAY09\\DoubleClick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE35-9539-4F2B-B2FE-016E6B4EF319}|DoubleClick\\DoubleClick.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day09\\day09\\doubleclick\\doubleclick\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC23EE35-9539-4F2B-B2FE-016E6B4EF319}|DoubleClick\\DoubleClick.csproj|solutionrelative:doubleclick\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC23EE35-9539-4F2B-B2FE-016E6B4EF319}|DoubleClick\\DoubleClick.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY09\\DAY09\\DoubleClick\\doubleclick\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC23EE35-9539-4F2B-B2FE-016E6B4EF319}|DoubleClick\\DoubleClick.csproj|solutionrelative:doubleclick\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY09\\DAY09\\DoubleClick\\DoubleClick\\Form1.cs",
+              "RelativeDocumentMoniker": "DoubleClick\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY09\\DAY09\\DoubleClick\\DoubleClick\\Form1.cs",
+              "RelativeToolTip": "DoubleClick\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:00:53.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY09\\DAY09\\DoubleClick\\DoubleClick\\Form1.cs",
+              "RelativeDocumentMoniker": "DoubleClick\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY09\\DAY09\\DoubleClick\\DoubleClick\\Form1.cs [Design]",
+              "RelativeToolTip": "DoubleClick\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:00:53.385Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

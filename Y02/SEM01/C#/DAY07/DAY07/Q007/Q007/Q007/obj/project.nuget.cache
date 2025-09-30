@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eSBW7zWnXF4wW2cwsZdzgZTmTnSOQZRtaOQz4yUluXad/EyWBY4kOYWMrOX9uopPAB02B2kQtuFLM9W1NUyknw==",
+  "dgSpecHash": "v0Py1PNSWv0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2022ict138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY07\\Q007\\Q007\\Q007\\Q007.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q007\\Q007\\Q007\\Q007.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,17 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\bin\Debug\net8.0-windows\TrackBar.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\bin\Debug\net8.0-windows\TrackBar.deps.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\bin\Debug\net8.0-windows\TrackBar.runtimeconfig.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\bin\Debug\net8.0-windows\TrackBar.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\bin\Debug\net8.0-windows\TrackBar.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.AssemblyInfoInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.AssemblyInfo.cs
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.sourcelink.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\refint\TrackBar.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\TrackBar.genruntimeconfig.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\TrackBar\obj\Debug\net8.0-windows\ref\TrackBar.dll

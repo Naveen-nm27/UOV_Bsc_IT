@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q008\\Q008\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6BFE0-C24A-45BD-822F-F3206985BEF3}|Q008\\Q008.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q008\\Q008\\q008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F6BFE0-C24A-45BD-822F-F3206985BEF3}|Q008\\Q008.csproj|solutionrelative:q008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F6BFE0-C24A-45BD-822F-F3206985BEF3}|Q008\\Q008.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day07\\day07\\q008\\q008\\q008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F6BFE0-C24A-45BD-822F-F3206985BEF3}|Q008\\Q008.csproj|solutionrelative:q008\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q008\\Q008\\Q008\\Form1.cs",
+              "RelativeDocumentMoniker": "Q008\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q008\\Q008\\Q008\\Form1.cs",
+              "RelativeToolTip": "Q008\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:07:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q008\\Q008\\Q008\\Form1.cs",
+              "RelativeDocumentMoniker": "Q008\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY07\\DAY07\\Q008\\Q008\\Q008\\Form1.cs [Design]",
+              "RelativeToolTip": "Q008\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:07:27.655Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

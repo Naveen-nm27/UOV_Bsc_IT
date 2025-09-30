@@ -1,0 +1,17 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\bin\Debug\net8.0-windows\Exercice01_DegitaClock.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\bin\Debug\net8.0-windows\Exercice01_DegitaClock.deps.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\bin\Debug\net8.0-windows\Exercice01_DegitaClock.runtimeconfig.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\bin\Debug\net8.0-windows\Exercice01_DegitaClock.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\bin\Debug\net8.0-windows\Exercice01_DegitaClock.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.AssemblyInfoInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.AssemblyInfo.cs
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.sourcelink.json
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\refint\Exercice01_DegitaClock.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\Exercice01_DegitaClock.genruntimeconfig.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\Exercice01_DegitaClock\obj\Debug\net8.0-windows\ref\Exercice01_DegitaClock.dll

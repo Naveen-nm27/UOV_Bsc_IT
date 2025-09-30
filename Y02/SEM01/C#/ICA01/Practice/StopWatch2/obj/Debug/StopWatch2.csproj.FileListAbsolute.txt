@@ -1,0 +1,10 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\bin\Debug\StopWatch2.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\bin\Debug\StopWatch2.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\bin\Debug\StopWatch2.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.Properties.Resources.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\ICA01\Practice\StopWatch2\obj\Debug\StopWatch2.pdb
