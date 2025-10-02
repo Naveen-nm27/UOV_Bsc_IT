@@ -28,7 +28,7 @@ class Chain implements Linearlist{
 	private int size;
 
 	public Chain(){
-		firstNode = new ChainNode(null,null);
+		firstNode = null;
 		size = 0;
 	}
 
@@ -53,7 +53,7 @@ class Chain implements Linearlist{
 			System.out.println("Error in Index");
 		else if(index == 0)
 		{
-			firstNode = new ChainNode(theElement,null);
+			firstNode = new ChainNode(theElement,firstNode);
 			size++;
 		} else
 			
@@ -89,9 +89,7 @@ class Chain implements Linearlist{
 			p.next = p.next.next;
 			size--;
 		}
-		
 		return removedElement;
-
 	}
 	
 	//remove test

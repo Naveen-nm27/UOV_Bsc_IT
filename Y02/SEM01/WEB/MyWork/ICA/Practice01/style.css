@@ -1,0 +1,112 @@
+body {
+    display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(back.jpg);
+	gap: 20px;
+}
+
+form {
+    max-width: 700px;
+    width: 100%;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+form h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.container  {
+    display: flex;
+    gap: 20px;
+}
+
+.container input:not(#phone) {
+    flex: 1;
+}
+
+.container > div {
+	flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.verify > div{
+	border-radius: 5px;
+	max-width: 25%;
+	padding: 15px;
+	background-color: #c6c4c6;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+.submit > button {
+	width: 100%;
+	padding: 15px;
+	background-color: #325591;
+	color: white;
+	border-radius: 7px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+select{
+	 padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+p {
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.button{
+	
+	background-color: #d1ff9d;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.button-2{
+	background-color: tomato;
+}
+
+.container #tasks{
+	width: 700px;
+	gap: 25px;
+}
+
+#tablestyle {
+	color: white;
+	display: flex;
+}
+
+.container table{
+	background-color: white;
+	padding: 20px;
+}
+
+.container table td{
+	padding: 20px;
+}
+
+.error{
+	color:red;
+}

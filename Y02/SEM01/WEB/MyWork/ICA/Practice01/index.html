@@ -1,0 +1,204 @@
+<html>
+<head>
+    <title>Practice01</title>
+    <link rel="stylesheet" href="style.css">
+	<script src="JQuery.js"></script>
+	
+</head>
+<body>
+    <form>
+        <h1 id="heading">Booking Form</h1>
+
+        <div class="container">
+            <div>
+                <h4 id="lable-name">Name</h4><span id="nameError" class="error"></span>
+                <input type="text" id="fname" placeholder="First*">
+            </div>
+            <div>
+                <h4>&nbsp;</h4>
+                <input type="text" id="lname" placeholder="Last*">
+            </div>
+        </div>
+
+        <div class="container">
+            <div>
+                <h4 id="lable-email">Email</h4>
+                <input type="text" placeholder="Email" id="email">
+                <p>We will send you a copy of the completed booking form to your e-mail address.</p>
+            </div>
+            <div>
+                <h4 id="lable-phone">Phone</h4>
+                <input id="phone" type="phone" placeholder="#### ### ###" id="phone">
+            </div>
+        </div>
+		<div class="container">
+			<div>
+				<h4 id="lable-date-1">Departed Date</h4>
+				<input type="date" placeholder="MM/DD/YY" id="date-1">
+			</div>
+			<div>
+				<h4 id="lable-time-1">Departed Time</h4>
+				<input type="time" placeholder="HH/MM AM" id="time-1">
+			</div>
+		</div>
+		<div class="container">
+			<div>
+				<h4 id="lable-date-2">Return Date</h4>
+				<input type="date" placeholder="MM/DD/YY" id="name-2">
+			</div>
+			<div>
+				<h4 id="lable-time-2">Return Time</h4>
+				<input type="time" placeholder="HH/MM AM" id="name-2">
+			</div>
+		</div>
+		<div class="container">
+			<div>
+				<h4 id="numOf">Number OF Pssengers</h4>
+				<select id="passenger">
+					<option value="">*Please Select*</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5+">5+</option>
+				</select>
+			</div>
+		</div>
+		<div class="verify">
+			<h3>Verification</h3>
+			<div>
+				<input type="checkbox"> <lable>I'm not a robot</lable>
+			</div>
+		</div>
+		<div class="submit">
+		<button id="submit">Submit</button>
+		</div>
+    </form>
+	
+	<div class="container">
+		<div id="tasks">
+			<input type="text" id="text1" placeholder="num1">
+			<input type="text" id="text2" placeholder="num2">
+			<select id="select">
+			<option value="">operators</option>
+			<option value="1">add</option>
+			<option value="2">sub</option>
+			<option value="3">mul</option>
+			<option value="4">div</option>
+			</select>
+			<button class="button" id="task1">Task-01</button>
+			<button class="button" id="task2">Task-02</button>
+		</div>
+	</div>
+	
+	<div class="container" id="tablestyle">
+	<h2>Student Grades</h2>
+
+		  <table id="gradesTable">
+			<thead>
+			  <tr>
+				<th>Name</th>
+				<th>Math</th>
+				<th>Science</th>
+				<th>English</th>
+			  </tr>
+			</thead>
+			<tbody>
+			  <tr>
+				<td class="student">Alice</td>
+				<td>85</td>
+				<td>90</td>
+				<td>88</td>
+			  </tr>
+			  <tr>
+				<td class="student">Bob</td>
+				<td>70</td>
+				<td>75</td>
+				<td>80</td>
+			  </tr>
+			  <tr>
+				<td class="student">Charlie</td>
+				<td>95</td>
+				<td>92</td>
+				<td>96</td>
+			  </tr>
+			</tbody>
+		  </table>
+	</div>
+	<script src="script.js"></script>
+	
+	<script>
+		$(document).ready(function(){
+			$(".student").css("font-weight","bold");
+		})
+		$("input").hover(function(){
+			$(this).css("border","red solid 1px")
+		})	
+		
+		$("input").mouseleave(function(){
+			$(this).css("border","")
+		})
+		
+		// $("#fname").mouseenter("input", function () {
+			// let input = $(this).val().trim();
+			// if (input === "") {
+				// $("#lable-name").html('Name <span class="error">Error</span>');
+			// } else {
+				// $("#lable-name").text("Name");
+			// }
+		// });
+		
+		// $("#fname").mouseleave("input", function () {
+			// let input = $(this).val().trim();
+			// if (input === "") {
+				// $("#lable-name").html('Name <span class="error">Error</span>');
+			// } else {
+				// $("#lable-name").text("Name");
+			// }
+		// });
+		
+		
+		$("#fname").mouseenter("click,mouseenter",function(){
+			let input = $(this).val().trim();
+			if(input === ""){
+				$("#lable-name").html('Name <span class="error">*</span>')
+			} else {
+				$("#lable-name").text("Name");
+			}
+		})
+		
+		$('#fname').mouseleave("click,mouseenter",function(){
+			let input = $(this).val().trim();
+			if(input === ""){
+				$("#lable-name").html('Name <span class="error">*</span>')
+			} else {
+				$("#lable-name").test("Name");
+			}
+		})
+		
+		$("#gradesTable td").hover(function(){
+			let score = parseInt($(this).text());
+			if(score > 90){
+				$(this).css("background-color","red");
+			}
+		});
+		
+		$("#gradesTable td").mouseleave(function(){
+			let score = parseInt($(this).text());
+			if(score > 90){
+				$(this).css("background-color","");
+			}
+		});
+		
+		$("#task2").click(function(){
+			$("#tablestyle").fadeOut();
+		})
+		
+		
+		$("#task2").click(function(){
+			$("#tablestyle").fadeIn();
+		})
+	</script>
+
+</body>
+</html>

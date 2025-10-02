@@ -85,7 +85,6 @@ public class ArrayLinearList implements Linearlist{
         
         Object removedElement = arrayList[index];
         
-        
         for (int i = index; i < size - 1; i++) {
             arrayList[i] = arrayList[i + 1];
         }
@@ -100,7 +99,7 @@ public class ArrayLinearList implements Linearlist{
 		if(index < 0 || index > size){
 			throw new IndexOutOfBoundsException("Index = "+index+" size = "+size);
 		} else {
-				for(int k = size;k > 0;k--){
+				for(int k = size;k >= index;k--){
 					arrayList[k] = arrayList[k - 1];
 				}
 			}
