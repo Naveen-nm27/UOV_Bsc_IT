@@ -79,6 +79,50 @@ public class ArrayLinearList implements Linearlist{
 		return new String(s);
 	}
 	
+
+public String toString(){
+	StringBuilder s = new StringBuilder("[ ");
+	
+	for(int i = 0; i < size;i++){
+		if(arrayList[i] == null){
+			s.append("null");
+		} else {
+			s.append(arrayList[i].toString());
+		}
+		if(i  < size - 1){
+			s.append(",")
+		}
+	}
+	s.append(" ]");
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    @Override
    public Object remove(int index) {
         checkIndex(index);

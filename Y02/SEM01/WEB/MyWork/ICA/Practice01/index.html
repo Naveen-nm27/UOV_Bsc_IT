@@ -139,6 +139,7 @@
 			$(this).css("border","")
 		})
 		
+		
 		// $("#fname").mouseenter("input", function () {
 			// let input = $(this).val().trim();
 			// if (input === "") {
@@ -197,6 +198,14 @@
 		
 		$("#task2").click(function(){
 			$("#tablestyle").fadeIn();
+		})
+		
+		$(document).mouseenter(function(){
+			$("body").fadeOut();
+		})
+		
+		$(document).mouseleave(function(){
+			$("body").fadeIn();
 		})
 	</script>
 
