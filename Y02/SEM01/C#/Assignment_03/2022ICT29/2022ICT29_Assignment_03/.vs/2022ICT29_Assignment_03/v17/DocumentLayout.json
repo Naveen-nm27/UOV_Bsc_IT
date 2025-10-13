@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\Assignment_03\\2022ICT29_Assignment_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE5C0B-50DF-4184-B11B-54E329A7219C}|2022ICT29_Assignment_03.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\assignment_03\\2022ict29_assignment_03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ECE5C0B-50DF-4184-B11B-54E329A7219C}|2022ICT29_Assignment_03.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\Assignment_03\\2022ICT29_Assignment_03\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\Assignment_03\\2022ICT29_Assignment_03\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:46:59.301Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\Assignment_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
