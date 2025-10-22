@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mini Bus Seat Booking</title>
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background-color: #f3f3f3;
+      margin-top: 50px;
+    }
+    .bus {
+      display: inline-block;
+    }
+    .row {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 10px;
+    }
+    .seat {
+      width: 40px;
+      height: 40px;
+      background-color: gray;
+      color: white;
+      margin: 5px;
+      border-radius: 5px;
+      line-height: 40px;
+      cursor: pointer;
+    }
+    .aisle {
+      width: 40px;
+    }
+    .selected {
+      background-color: green;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+  <h2>Mini Bus Seat Booking</h2>
+  <div class="bus">
+    <div class="row">
+      <div class="seat">1</div>
+      <div class="seat">2</div>
+      <div class="aisle"></div>
+      <div class="seat">3</div>
+      <div class="seat">4</div>
+      <div class="seat">5</div>
+    </div>
+    <div class="row">
+      <div class="seat">6</div>
+      <div class="seat">7</div>
+      <div class="aisle"></div>
+      <div class="seat">8</div>
+      <div class="seat">9</div>
+      <div class="seat">10</div>
+    </div>
+    <div class="row">
+      <div class="seat">11</div>
+      <div class="seat">12</div>
+      <div class="aisle"></div>
+      <div class="seat">13</div>
+      <div class="seat">14</div>
+      <div class="seat">15</div>
+    </div>
+  </div>
+
+  <p>Selected Seats: <span id="count">0</span></p>
+
+  <script>
+    $(document).ready(function() {
+      $(".seat").click(function() {
+        $(this).toggleClass("selected");
+        let count = $(".selected").length;
+        $("#count").text(count);
+      });
+    });
+  </script>
+</body>
+</html>

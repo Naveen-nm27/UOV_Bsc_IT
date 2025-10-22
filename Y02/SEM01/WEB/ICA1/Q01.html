@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Armstrong Number Checker</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #f7f7f7;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .box {
+      background: #222;
+      padding: 20px 30px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    input {
+      padding: 8px;
+      border: none;
+      border-radius: 5px;
+      width: 150px;
+      text-align: center;
+    }
+    button {
+      padding: 8px 15px;
+      margin-left: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #a7288e;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Armstrong Number Checker</h2>
+    <input type="text" id="num" placeholder="Enter 3-digit number">
+    <button onclick="checkArmstrong()">Check</button>
+    <p id="result"></p>
+  </div>
+
+  <script>
+    function checkArmstrong() {
+      let n = document.getElementById("num").value;
+      let sum = 0, temp = n;
+
+      while (temp > 0) {
+        let digit = temp % 10;
+        sum += digit ** 3;
+        temp = Math.floor(temp / 10);
+      }
+
+      if (sum == n) {
+        document.getElementById("result").innerText = n + " is an Armstrong number.";
+      } else {
+        document.getElementById("result").innerText = n + " is NOT an Armstrong number.";
+      }
+    }
+  </script>
+</body>
+</html>
