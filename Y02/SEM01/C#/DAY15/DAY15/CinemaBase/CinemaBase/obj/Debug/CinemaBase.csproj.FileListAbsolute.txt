@@ -1,0 +1,13 @@
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\bin\Debug\CinemaBase.exe.config
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\bin\Debug\CinemaBase.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\bin\Debug\CinemaBase.pdb
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.csproj.AssemblyReference.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.Form1.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.Form2.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.Properties.Resources.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.csproj.GenerateResource.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.pdb
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY15\CinemaBase\CinemaBase\obj\Debug\CinemaBase.View.resources

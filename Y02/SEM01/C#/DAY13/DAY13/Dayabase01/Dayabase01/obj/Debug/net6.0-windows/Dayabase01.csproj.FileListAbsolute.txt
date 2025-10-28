@@ -1,0 +1,17 @@
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.csproj.AssemblyReference.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.Form1.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.csproj.GenerateResource.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.AssemblyInfoInputs.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.AssemblyInfo.cs
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.csproj.CoreCompileInputs.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\bin\Debug\net6.0-windows\Dayabase01.exe
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\bin\Debug\net6.0-windows\Dayabase01.deps.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\bin\Debug\net6.0-windows\Dayabase01.runtimeconfig.json
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\bin\Debug\net6.0-windows\Dayabase01.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\bin\Debug\net6.0-windows\Dayabase01.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\refint\Dayabase01.dll
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.pdb
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\Dayabase01.genruntimeconfig.cache
+C:\Users\2022ict138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY13\Dayabase01\Dayabase01\obj\Debug\net6.0-windows\ref\Dayabase01.dll

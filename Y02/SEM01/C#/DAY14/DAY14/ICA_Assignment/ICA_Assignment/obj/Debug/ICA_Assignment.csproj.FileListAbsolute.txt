@@ -1,0 +1,11 @@
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\bin\Debug\ICA_Assignment.exe.config
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\bin\Debug\ICA_Assignment.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\bin\Debug\ICA_Assignment.pdb
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.csproj.AssemblyReference.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.Form1.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.Properties.Resources.resources
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.csproj.GenerateResource.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.exe
+C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY14\ICA_Assignment\ICA_Assignment\obj\Debug\ICA_Assignment.pdb
