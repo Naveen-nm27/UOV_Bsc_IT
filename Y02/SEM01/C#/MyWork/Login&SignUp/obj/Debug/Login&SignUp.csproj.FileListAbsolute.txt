@@ -1,0 +1,12 @@
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\bin\Debug\Login&SignUp.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\bin\Debug\Login&SignUp.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\bin\Debug\Login&SignUp.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login&SignUp.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login_SignUp.Login.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login_SignUp.Sign.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login_SignUp.Properties.Resources.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login&SignUp.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login&SignUp.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login&SignUp.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login&SignUp.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\MyWork\Login&SignUp\obj\Debug\Login&SignUp.exe.config

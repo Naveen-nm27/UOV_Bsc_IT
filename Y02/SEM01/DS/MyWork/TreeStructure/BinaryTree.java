@@ -1,3 +1,5 @@
+import DFS.Node;
+
 class Node{
 	Node left;
 	int element;
