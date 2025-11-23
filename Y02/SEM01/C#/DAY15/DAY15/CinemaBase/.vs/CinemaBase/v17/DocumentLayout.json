@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day15\\day15\\cinemabase\\cinemabase\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\cinemabase\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5DB067-4976-4705-802F-36F5A0209070}|CinemaBase\\CinemaBase.csproj|solutionrelative:cinemabase\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\View.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\View.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\View.cs",
+              "RelativeToolTip": "CinemaBase\\View.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:12:46.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Form2.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\Form2.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Form2.cs",
+              "RelativeToolTip": "CinemaBase\\Form2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T03:12:46.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\Movie.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Movie.cs",
+              "RelativeToolTip": "CinemaBase\\Movie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:12:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.Designer.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\View.Designer.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\View.Designer.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\View.Designer.cs",
+              "RelativeToolTip": "CinemaBase\\View.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:12:46.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Form2.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\Form2.cs",
+              "ToolTip": "C:\\Users\\2022ICT138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY15\\CinemaBase\\CinemaBase\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T03:12:46.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\View.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\View.cs",
+              "ToolTip": "C:\\Users\\2022ICT138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY15\\CinemaBase\\CinemaBase\\View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T03:12:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Form1.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\Form1.cs",
+              "ToolTip": "C:\\Users\\2022ICT138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY15\\CinemaBase\\CinemaBase\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T03:12:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Form1.cs",
+              "RelativeDocumentMoniker": "CinemaBase\\Form1.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY15\\DAY15\\CinemaBase\\CinemaBase\\Form1.cs",
+              "RelativeToolTip": "CinemaBase\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T03:12:46.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
