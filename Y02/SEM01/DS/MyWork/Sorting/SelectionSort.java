@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class SelectionSort{
 	public static void main(String[] args){
 		Random rand = new Random();
@@ -11,7 +13,7 @@ public class SelectionSort{
 	public static void selectionSort(int[] num){
 		int len = num.length;
 		
-		for(int i = 0; i < len - 1;i++){
+		for (int i = 0; i < len - 1;i++){
 			int min = num[i];
 			int index = i;
 			
@@ -21,12 +23,14 @@ public class SelectionSort{
 					index = j;
 				}
 			}
+			swap(num, index, min);
 		}
-		
-		swap()
 	}
 	
-	public void swap(int[] num,int a,int b){
-		int temp = numbers[a];
+	public static void swap(int[] num, int a, int b){
+		int temp = num[a];
+		num[a] = num[b];
+		num[b] = temp;
 	}
+
 }
