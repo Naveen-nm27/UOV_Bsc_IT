@@ -1,6 +1,15 @@
 import java.util.Random;
 
+
+class Car{
+	
+}
+
 public class SelectionSort{
+	public Car getCar(){
+		return Car;
+	}
+	
 	public static void main(String[] args){
 		Random rand = new Random();
 		int[] numbers = new int[10];

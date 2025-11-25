@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\mywork\\ica3\\testproj\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D39BF79-D41B-47EE-A858-1C03BD3902BB}|testProj.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\View.cs",
+              "RelativeDocumentMoniker": "View.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\View.cs",
+              "RelativeToolTip": "View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:58:59.756Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\LogIn.cs",
+              "RelativeToolTip": "LogIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T04:17:02.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\View.cs",
+              "RelativeDocumentMoniker": "View.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\View.cs [Design]",
+              "RelativeToolTip": "View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:47:55.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\SignUp.cs",
+              "RelativeToolTip": "SignUp.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIA6wFQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:28:48.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:36:04.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\Operations.cs",
+              "RelativeDocumentMoniker": "Operations.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\Operations.cs",
+              "RelativeToolTip": "Operations.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwJQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:52:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\LogIn.cs [Design]",
+              "RelativeToolTip": "LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:35:42.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBConnection.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\DBConnection.cs",
+              "RelativeToolTip": "DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:45:48.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:49:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\MyWork\\ICA3\\testProj\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:31:02.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

