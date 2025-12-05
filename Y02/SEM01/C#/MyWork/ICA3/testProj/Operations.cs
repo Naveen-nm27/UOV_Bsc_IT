@@ -55,7 +55,7 @@ namespace testProj
         public User viewUserData(string username)
         {
             string sql = $"SELECT * FROM user_data WHERE username = '{username}'";
-            User user1=null;
+            User user=null;
 
             using (var con = _conn.GetConnection())
             {
@@ -64,7 +64,7 @@ namespace testProj
                 using (MySqlCommand cmd = new MySqlCommand(sql, con))
                 using (MySqlDataReader reader = cmd.ExecuteReader()) {
                     while (reader.Read()) {
-                        user1 = new User()
+                        user = new User()
                         {
                             UserId = reader.GetInt32("userId"),
                             firstName = reader.GetString("firstname"),
@@ -77,7 +77,7 @@ namespace testProj
                     }
                 }
             }
-            return user1;
+            return user;
         }
 
         public bool deleteUser(string username) 

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rTTDuayWzim32j2qATR+m7R8/4hs57PZaORfAorZU1jO0h2/REGsNs7ryKHeg5ZhgoYiYknucmwVrfoK0j1Dqw==",
+  "dgSpecHash": "j3x/lj+K9AA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2022ICT138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY14\\FormEx01\\FormEx01\\FormEx01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\FormEx01\\FormEx01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\NAVEEN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

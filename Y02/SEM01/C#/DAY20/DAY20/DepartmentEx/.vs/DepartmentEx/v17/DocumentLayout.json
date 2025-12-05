@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\departmentex\\tablede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\departmentex\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|solutionrelative:departmentex\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day20\\day20\\departmentex\\departmentex\\tablede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|solutionrelative:departmentex\\tablede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day20\\day20\\departmentex\\departmentex\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\departmentex\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|solutionrelative:departmentex\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\departmentex\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|solutionrelative:departmentex\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\departmentex\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|solutionrelative:departmentex\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1E6F898-7B22-486E-BE7B-35B011310EE0}|DepartmentEx\\DepartmentEx.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\departmentex\\tablecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "employee.cs",
               "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\DepartmentEx\\employee.cs",
               "RelativeDocumentMoniker": "DepartmentEx\\employee.cs",
@@ -99,21 +99,24 @@
               "RelativeToolTip": "DepartmentEx\\employee.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAAAG4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T07:56:07.629Z"
+              "WhenOpened": "2025-11-09T07:56:07.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "employee.cs [Design]",
               "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\DepartmentEx\\employee.cs",
               "RelativeDocumentMoniker": "DepartmentEx\\employee.cs",
-              "ToolTip": "H:\\IT2143(P)\\DepartmentEx\\DepartmentEx\\employee.cs [Design]",
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\DepartmentEx\\employee.cs [Design]",
+              "RelativeToolTip": "DepartmentEx\\employee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T04:43:29.204Z"
+              "WhenOpened": "2025-11-09T04:43:29.204Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\DepartmentEx\\Department.cs",
               "RelativeDocumentMoniker": "DepartmentEx\\Department.cs",
@@ -121,12 +124,11 @@
               "RelativeToolTip": "DepartmentEx\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T04:48:47.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T04:48:47.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "tablede.cs",
               "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY20\\DAY20\\DepartmentEx\\DepartmentEx\\tablede.cs",
               "RelativeDocumentMoniker": "DepartmentEx\\tablede.cs",

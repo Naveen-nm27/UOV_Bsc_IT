@@ -20,22 +20,21 @@ namespace testProj
         Operations operations = new Operations();
         private void button2_Click(object sender, EventArgs e)
         {
+            /*            string username = Microsoft.VisualBasic.Interaction.InputBox(
+                            "Enter username to search",
+                            "Find User",
+                            ""
+                        );
+            */
+            /*            if (string.IsNullOrEmpty(username))
+                        {
+                            MessageBox.Show("Username cannot be empty.");
+                            return;
+                        }*/
 
+            string uname = textBox1.Text;
 
-
-            string username = Microsoft.VisualBasic.Interaction.InputBox(
-                "Enter username to search",
-                "Find User",
-                ""
-            );
-
-            if (string.IsNullOrEmpty(username))
-            {
-                MessageBox.Show("Username cannot be empty.");
-                return;
-            }
-
-            User user = operations.viewUserData(username);
+            User user = operations.viewUserData(uname);
 
             if (user == null)
             {
@@ -48,7 +47,6 @@ namespace testProj
             user1.Text = user.userName;
             pass.Text = user.password;
             subject.Text = user.subject;
-            richTextBox1.Text = user.comment;
             // pictureBox1.Image = Image.FromFile($"E:\\IMG\\{user.imgFilePath}");
 
 

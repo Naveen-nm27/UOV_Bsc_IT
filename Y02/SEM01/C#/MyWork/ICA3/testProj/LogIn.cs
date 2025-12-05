@@ -14,7 +14,7 @@ namespace testProj
             string user = textBox1.Text.Trim();
             string pass = textBox2.Text.Trim();
 
-            if (op.logIn(user, pass)) {
+            if (op.Login(user, pass)) {
                 MessageBox.Show("Hari bn");
             } else
             {

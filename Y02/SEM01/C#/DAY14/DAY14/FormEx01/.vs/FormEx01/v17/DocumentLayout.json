@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31E8D1A0-D823-4157-AEB4-D25E614194BC}|FormEx01\\FormEx01.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day14\\day14\\formex01\\formex01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E8D1A0-D823-4157-AEB4-D25E614194BC}|FormEx01\\FormEx01.csproj|solutionrelative:formex01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31E8D1A0-D823-4157-AEB4-D25E614194BC}|FormEx01\\FormEx01.csproj|E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\formex01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{31E8D1A0-D823-4157-AEB4-D25E614194BC}|FormEx01\\FormEx01.csproj|solutionrelative:formex01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E8D1A0-D823-4157-AEB4-D25E614194BC}|FormEx01\\FormEx01.csproj|e:\\my projects\\coding\\uov_bsc_it\\y02\\sem01\\c#\\day14\\day14\\formex01\\formex01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E8D1A0-D823-4157-AEB4-D25E614194BC}|FormEx01\\FormEx01.csproj|solutionrelative:formex01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\FormEx01\\Form1.cs",
               "RelativeDocumentMoniker": "FormEx01\\Form1.cs",
               "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\FormEx01\\Form1.cs",
               "RelativeToolTip": "FormEx01\\Form1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T03:12:23.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\FormEx01\\Form1.cs",
               "RelativeDocumentMoniker": "FormEx01\\Form1.cs",
-              "ToolTip": "C:\\Users\\2022ICT138\\Desktop\\2022ICT138\\2022ICT138\\Y02\\SEM01\\IT2142\\DAY14\\FormEx01\\FormEx01\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-11-22T03:12:23.733Z"
+              "ToolTip": "E:\\My Projects\\Coding\\UOV_Bsc_IT\\Y02\\SEM01\\C#\\DAY14\\DAY14\\FormEx01\\FormEx01\\Form1.cs [Design]",
+              "RelativeToolTip": "FormEx01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T03:12:23.733Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
