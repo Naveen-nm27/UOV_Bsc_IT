@@ -15,6 +15,17 @@ namespace loginForm
         public Form1()
         {
             InitializeComponent();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello,World!");
         }
     }
 }

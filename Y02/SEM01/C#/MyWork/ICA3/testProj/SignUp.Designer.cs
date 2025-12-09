@@ -45,6 +45,7 @@
             openFileDialog1 = new OpenFileDialog();
             button3 = new Button();
             button4 = new Button();
+            button5 = new Button();
             SuspendLayout();
             // 
             // textBox2
@@ -212,12 +213,24 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // button5
+            // 
+            button5.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button5.Location = new Point(18, 730);
+            button5.Name = "button5";
+            button5.Size = new Size(648, 71);
+            button5.TabIndex = 32;
+            button5.Text = "Login";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
             // SignUp
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(64, 64, 64);
-            ClientSize = new Size(675, 770);
+            ClientSize = new Size(675, 850);
+            Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -260,5 +273,6 @@
         private OpenFileDialog openFileDialog1;
         private Button button3;
         private Button button4;
+        private Button button5;
     }
 }

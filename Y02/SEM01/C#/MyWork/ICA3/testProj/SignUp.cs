@@ -87,5 +87,10 @@ namespace testProj
             log.Show();
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Enabled = false;
+        }
     }
 }

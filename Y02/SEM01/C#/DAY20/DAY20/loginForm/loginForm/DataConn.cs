@@ -7,7 +7,7 @@ using MySql.Data.MySqlClient;
 
 namespace loginForm
 {
-    String sqlconn = "Server=Localhost;Databse=userlogin;User Id=root";
+
     internal class DataConn
     {
     }

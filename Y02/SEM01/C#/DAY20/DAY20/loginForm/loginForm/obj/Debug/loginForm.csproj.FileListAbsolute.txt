@@ -40,3 +40,45 @@ C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY20\loginFo
 C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY20\loginForm\loginForm\obj\Debug\loginForm.csproj.CopyComplete
 C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY20\loginForm\loginForm\obj\Debug\loginForm.exe
 C:\Users\2022ICT138\Desktop\2022ICT138\2022ICT138\Y02\SEM01\IT2142\DAY20\loginForm\loginForm\obj\Debug\loginForm.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.csproj.AssemblyReference.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.Form1.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.Properties.Resources.resources
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.csproj.GenerateResource.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.csproj.CoreCompileInputs.cache
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\loginForm.exe.config
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\loginForm.exe
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\loginForm.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\BouncyCastle.Cryptography.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\Google.Protobuf.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\K4os.Compression.LZ4.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\K4os.Hash.xxHash.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\MySql.Data.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Buffers.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.IO.Pipelines.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Memory.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Numerics.Vectors.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\ZstdSharp.dll
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\BouncyCastle.Cryptography.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\Google.Protobuf.pdb
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\Google.Protobuf.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\K4os.Compression.LZ4.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\K4os.Hash.xxHash.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\MySql.Data.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Buffers.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.IO.Pipelines.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Memory.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Numerics.Vectors.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\My Projects\Coding\UOV_Bsc_IT\Y02\SEM01\C#\DAY20\DAY20\loginForm\loginForm\obj\Debug\loginForm.csproj.Up2Date
