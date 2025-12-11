@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let num = 0;
+
+        const cars = ["BMW","Volvo","CRT","BMW","Volvo","CRT","BMW","Volvo","CRT","CAAB"];
+
+        const color = ["Red","Violet","Cyan","Lime","Blue"];
+
+
+        
+        function hello(){
+            document.querySelector('h1').innerHTML = "Goodbye!";
+        }
+
+        function rand(){
+            let h1 = document.querySelector('h1');
+
+            let num2 = Math.floor(Math.random() * 11);
+            document.body.style.backgroundColor = color[num2];
+
+            if(num2 === 0){
+                h1.innerHTML = "RED";
+            } else {
+                h1.innerHTML = "";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Test</h1>
+    <button onclick="rand()">Click Here</button>
+</body>
+</html>

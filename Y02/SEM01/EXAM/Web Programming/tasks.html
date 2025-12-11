@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasks</title>
+        <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            font-family: "Lexend", sans-serif;
+            font-weight: bold;
+            justify-content: center;        /* centers vertically */
+            align-items: center;            /* centers horizontally */
+            min-height: 100vh;              /* full viewport height */
+            margin: 0;                      /* remove default body margins */
+            background: linear-gradient(
+            to bottom,
+            rgb(102, 228, 235),
+            rgba(10, 1, 14, 0.911)
+            );
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .myTasks {
+            width: 60%;
+            box-shadow: 0 0 10px rgba(238, 130, 238, 0.526);
+            background-color: rgba(238, 130, 238, 0.526);
+            border-radius: 10px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+
+        button {
+            background-color: rgb(191, 8, 88);
+            color: azure;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+
+        .taskInput {
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.74);
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .taskInput button,
+        .taskInput input {
+            flex: 1;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded',()=>{
+            // document.querySelector('form').onsubmit = () =>{
+            //     var inputElement = document.getElementById('input');
+            //     var input = inputElement.value;
+            //     var li = document.createElement('li');
+            //     var task = document.getElementById('tasks');
+            //     li.textContent = input;
+
+            //     event.preventDefault();
+            //     console.log(input);
+
+            //     if(input == ""){
+            //         alert("Cannot Add Empty Tasks");
+            //     } else {
+            //         task.append(li);
+            //     }
+            //    inputElement.value = "";
+            // }
+
+        const add  = document.getElementById('add');
+        const remove = document.getElementById('remove');
+
+            add.addEventListener('click',() => {
+                var inputElement = document.getElementById('input_two');
+                var input = inputElement.value;
+                var li = document.createElement('li');
+                var task = document.getElementById('tasks');
+                
+                li.textContent = input;
+                if(input == ""){
+                    alert("Cannot Add Empty Tasks");
+                } else {
+                    task.append(li);
+                }
+               inputElement.value = "";
+            });
+
+            remove.addEventListener('click',() => {
+                 document.getElementById('tasks').lastElementChild.remove();
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="myTasks">
+        <ul id="tasks">
+        </ul>
+    </div>
+    <!-- <div>
+        <form>
+            <input type="text" id="input">
+            <input type="submit" value="Add"></input>
+        </form>
+    </div> -->
+    <div class="taskInput">
+        <input type="text" id="input_two" autofocus>
+        <button id="add">Add</button>
+        <button id="remove">Remove</button>
+    </div>
+</body>
+</html>

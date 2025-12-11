@@ -1,0 +1,46 @@
+public class MyLinkedList<E>{
+    private static class Node <E>{
+    private E data;
+    private Node<E> next;
+
+    private Node(E dataItem){
+        data = dataItem;
+        next = null;
+    }
+
+    private Node(E dataItem,Node<E> nodeRef){
+        this.data = dataItem;
+        next = nodeRef;
+    }
+    }
+
+    private Node<E> head;
+    private int size;
+
+    public MyLinkedList(){
+        head = null;
+        size = 0;
+    }
+
+    public void addFirst(E item){
+        Node <E> newNode = new Node<>(item, head);
+        head = newNode;
+        size++;
+    }
+
+    public void addLast(E item){
+        Node <E> newNode = new Node<>(item,head);
+        if(head == null){
+            head = newNode;
+        } else {
+            Node<E> current = head;
+            while (head != null) {
+                current = current.next;
+            }
+        }
+    }
+	
+	public void add(E item){
+		Node <E> newNode = new Node<>(item,head);
+	}
+}

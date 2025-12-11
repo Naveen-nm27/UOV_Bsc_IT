@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        document.addEventListener('DOMContentLoaded',function(){
+            // let text = document.querySelector('h1');
+            // let red = document.querySelector('#r');
+            // let green = document.querySelector('#g');
+            // let blue = document.querySelector('#b');
+
+            // red.addEventListener ('click',function(){
+            //     text.style.color  = "red";
+            // });
+
+            // green.addEventListener ('click',function(){
+            //     text.style.color  = "green";
+            // });
+
+            // blue.addEventListener ('click',function(){
+            //     text.style.color  = "blue";
+            // });
+
+            document.querySelectorAll('button').forEach(function(button){
+                button.onclick = function() {
+                    document.querySelector('h1').style.color = button.dataset.color;
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Hello</h1>
+    <button data-color="red">Red</button>
+    <button data-color="green">Green</button>
+    <button data-color="blue">Blue</button>
+</body>
+</html>

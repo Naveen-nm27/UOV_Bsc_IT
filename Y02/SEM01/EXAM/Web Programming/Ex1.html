@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise</title>
+    <script>
+        document.addEventListener('DOMContentLoaded',function(){
+            document.querySelector('form').onsubmit = function(event){
+                event.preventDefault();
+                let name = document.querySelector('#name').value;
+                let num = document.querySelector('#num').value;
+
+                document.querySelector('h1').innerHTML = name;
+                document.querySelector('p').innerHTML = num;
+            }
+
+            document.querySelector('#Clear').addEventListener('click',function(){
+                document.querySelector('h1').innerHTML = "";
+                document.querySelector('p').innerHTML = "";
+            });
+        });
+    </script>
+</head>
+<body>
+    <form>
+        <input type="text" autofocus id="name" placeholder="name">
+        <input type="text" id="num" placeholder="number">
+        <input type="submit">
+    </form>
+    <h1></h1>
+    <p></p>
+    <button id="Clear">Clear</button>
+</body>
+</html>
